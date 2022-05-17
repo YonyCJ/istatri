@@ -1,0 +1,151 @@
+%\documentclass[a4paper]{article}
+%\usepackage[T1]{fontenc}
+%\usepackage{array}
+%
+%\begin{document}
+
+%
+%\begin{table}[]
+%%\centering
+%\begin{tabular}{|p{.5cm}|p{4cm}|p{2cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|}
+%\hline
+%\multicolumn{1}{|c|}{Ciclo} & \multicolumn{1}{c|}{Asignaturas}    & \multicolumn{1}{c|}{Tipo} & {Total Créditos} & Horas teórico-práctios & Horas prácticas &Total horas & Pre requisito \\ \hline
+%\multicolumn{1}{|c|}{I}     & Filosofía De La Educación Cristiana & Empleabilidad             & \multicolumn{1}{c|}{2}              & \multicolumn{1}{c|}{16}                     & \multicolumn{1}{c|}{32}              & \multicolumn{1}{c|}{48}          & \multicolumn{1}{c|}{Ninguno}       \\ \hline
+%                            &                                     &                           &                                     &                                             &                                      &                                  &                                    \\ \hline
+%                            &                                     &                           &                                     &                                             &                                      &                                  &                                    \\ \hline
+%                            &                                     &                           &                                     &                                             &                                      &                                  &                                    \\ \hline
+%                            &                                     &                           &                                     &                                             &                                      &                                  &                                    \\ \hline
+%                            &                                     &                           &                                     &                                             &                                      &                                  &                                    \\ \hline
+%\end{tabular}
+%\end{table}
+
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{multirow}
+
+\setlength{\arrayrulewidth}{0.25mm}
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.5}
+\usepackage{color, colortbl}
+\usepackage{xcolor}
+\usepackage{pstricks} 
+
+
+
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ right=25mm,
+ top=25mm,
+ bottom=25mm,
+ }
+
+\usepackage{fancyhdr}
+\usepackage{array}                                                                       
+\usepackage{xcolor}
+
+\definecolor{red}{rgb}{0,1,0.5}
+
+
+\pagestyle{fancy}
+\centering
+\begin{document}
+\begin{tabular}{ |p{0.7cm}|p{5cm}|p{2.3cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|  }
+\hline
+\multicolumn{8}{|c|}{Country List} \\
+\hline
+Ciclo & \multicolumn{1}{c|}{Asignaturas} & \multicolumn{1}{c|}{Tipo} & Total créditos & Horas teórico-práctias& Horas prácticas & Total horas & Pre requisitos \\
+\hline
+\multicolumn{1}{|c|}{I} & Filosofía de la Educación Cristiana & Empleabilidad & \multicolumn{1}{|c|}{2} & \multicolumn{1}{|c|}{16} &\multicolumn{1}{|c|}{32} & \multicolumn{1}{|c|}{48} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Salud y Cultura Física I & Empleabilidad & \multicolumn{1}{|c|}{1} & \multicolumn{1}{|c|}{0} &\multicolumn{1}{|c|}{32} & \multicolumn{1}{|c|}{32} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Herramientas Informáticas Para La Gestión Y El Desarrollo & Empleabilidad & \multicolumn{1}{|c|}{3} & \multicolumn{1}{|c|}{32} &\multicolumn{1}{|c|}{32} & \multicolumn{1}{|c|}{64} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Fundamentos de Programación & Empleabilidad & \multicolumn{1}{|c|}{4} & \multicolumn{1}{|c|}{16} &\multicolumn{1}{|c|}{96} & \multicolumn{1}{|c|}{112} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Fundamentos de Matemática & Empleabilidad & \multicolumn{1}{|c|}{3} & \multicolumn{1}{|c|}{32} &\multicolumn{1}{|c|}{32} & \multicolumn{1}{|c|}{64} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Comunicación Efectiva & Empleabilidad & \multicolumn{1}{|c|}{3} & \multicolumn{1}{|c|}{16} &\multicolumn{1}{|c|}{64} & \multicolumn{1}{|c|}{80} & \multicolumn{1}{|c|}{ninguno} \\
+
+\multicolumn{1}{|c|}{I} & Fundamentos De hardware Y software & Empleabilidad & \multicolumn{1}{|c|}{3} & \multicolumn{1}{|c|}{16} &\multicolumn{1}{|c|}{64} & \multicolumn{1}{|c|}{80} & \multicolumn{1}{|c|}{ninguno} \\
+
+\hline
+\end{tabular}
+
+
+\newpage
+
+\begin{tabular}{|p{0.7cm}|c|c|}
+\hline
+Ciclo & Asignatura & tipo \\
+\hline
+\centering \multirow{3}{4cm}{I} & \multirow{3}{*}[3 mm] {multifila 1-2} & 3 \\
+\cline{3-3} 
+ &  & \multirow{2}{*}[-3    mm]{multifila    2-3} \\
+\cline{2-2}
+ & 5 & 6 \\
+\hline
+
+
+\multirow{3}{4cm}{multifila 1-3} & \multirow{3}{*}[3 mm] {multifila 1-2} & columna 3\\
+\cline{3-3}
+                                 &    &    \multirow{2}{*}[-3    mm]{multifila    2-3}\\ 
+\cline{2-2}
+                                 &    columna    2    &    \\ 
+\hline
+\end{tabular}
+
+\newpage
+
+
+
+%\rowcolor[RGB]{0,44,89} 
+
+\definecolor{azul-istat}{RGB}{0,44,89}
+
+
+\begin{tabular}{|p{0.4cm}|p{5cm}|p{2.2cm}|p{1.2cm}|p{1.2cm}|p{1.2cm}|p{1.2cm}|p{1.2cm}|}\hline
+\rowcolor{azul-istat}
+
+\multicolumn{1}{|c|}{Ciclo} & 
+\multicolumn{1}{m{5cm}|}{\centering Asignaturas} & 
+Tipo & 
+Total créditos & 
+Horas teórico-prácticos & 
+Horas prácticas & 
+Total horas & 
+Pre requisitos \tabularnewline 
+ 
+\hline
+%\multicolumn{1}{|c|}{\centering I} & Filosofía de la educación cristiana & Empleabilidad & 2 & 16 & 32 & 48 & Ninguno \\ \hline
+%\multicolumn{1}{|c|}{\centering I}& Salud y Cultura Física I & Empleabilidad & 1 & 0 & 32 & 32 & Ninguno \\ \hline
+%\multicolumn{1}{|c|}{\centering I}&Herramientas Informáticas Para La Gestión Y El Desarrollo& Especificas & 3 & 32 & 32 & 64 & Ninguno\\ \hline
+%
+%\multicolumn{1}{|c|}{\centering I}&Fundamentos de Programación& Especificas & 4 & 16 & 96 & 112 & Ninguno\\ \hline
+%
+%\multicolumn{1}{|c|}{\centering I}&Fundamentos de Matemática & Especificas & 3 & 32 & 32 & 64 & Ninguno\\ \hline
+%
+%\multicolumn{1}{|c|}{\centering I}&Comunicación Efectiva & Especificas & 3 & 32 & 32 & 64 & Ninguno\\ \hline
+%
+%\multicolumn{1}{|c|}{\centering I}&Fundamentos de Hardware y Software & Especificas & 3 & 32 & 32 & 64 & Ninguno\\ \hline
+\end{tabular}
+
+% ----
+
+\begin{tabular}{|c|c|c|}
+
+ciclo & asignatura & tipo
+\multirow{3}{4cm}{Ciclo} & \multirow{2}{*}[3 mm] {Asignaturas}  &   Tipo  
+\hline
+\multirow{3}{4cm}{Ciclo} & \multirow{2}{*}[3 mm] {Asignaturas}  &   Tipo                                      \\
+\cline{3-3}
+                         &                                      &    \multirow{2}{*}[-3    mm]{tipo 1}\\ 
+\cline{2-2}
+                         &    asignatura 2                      &    \\ 
+\hline
+
+\end{tabular}
+
+\end{document}

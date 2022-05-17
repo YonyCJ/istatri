@@ -1,0 +1,360 @@
+\documentclass[xcolor=table,12pt, a4paper]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Force pdflatex processing even with "$ latex" (required by arXiv)
+\pdfoutput=1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\addto\captionsspanish{%
+\def\tablename{Tabla}%
+}
+
+%\usepackage{fontspec}
+%\setmainfont{Arial}  
+
+%Maldito arial 12
+%changing the deafult fonts
+\usepackage{textcomp}
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{pag}
+\renewcommand{\ttdefault}{pcr}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{bm}
+\usepackage{graphicx}
+\graphicspath{{certificados/}{./}}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{sectsty}
+
+\usepackage{pdflscape}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{rotating}
+\usepackage{pdfpages}
+\usepackage{numprint}
+
+\usepackage{texdate}
+
+\usepackage{ragged2e}
+\usepackage{enumitem}
+
+\usepackage[ddmmyyyy]{datetime}
+%AGREGADOS ULTIMO
+\usepackage{xcolor, color}
+\usepackage{titlesec}
+
+%%LaTeX spreadsheet
+\usepackage[nomessages]{fp}
+\usepackage{numprint}
+\npthousandsep{,}
+%%%%%%%%%%%%%%%%
+\usepackage{cancel}
+%\usepackage[colorlinks=true]{hyperref}
+
+\usepackage{hyperref}
+\hypersetup{ colorlinks=false,                     %habilitar colorear enlaces
+                     linkcolor=blue,
+                     filecolor=magenta,
+                     urlcolor=cyan,
+                    }
+
+%\usepackage[square,numbers]{natbib}
+%\setcitestyle{notesep={:}}
+%\usepackage[punctsep]{collref}
+\usepackage{booktabs}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\usepackage{cite}
+\usepackage{setspace}
+\spacing{1.4}
+
+%\setlength{\oddsidemargin}{-0.5cm}
+%\setlength{\evensidemargin}{-0.5cm}
+%\setlength{\topmargin}{-1cm}
+%\setlength{\textheight}{21.5cm}
+%\setlength{\textwidth}{18cm}
+%\setlength{\parindent}{0pt}
+%\setlength{\headheight}{1.2cm}
+%\setlength{\headsep}{5mm}
+
+\setlength{\oddsidemargin}{-0.5cm}
+\setlength{\evensidemargin}{-0.5cm}
+\setlength{\topmargin}{-1cm}
+\setlength{\textheight}{21.5cm}
+%\setlength{\textwidth}{18cm}
+%%\setlength{\parindent}{0pt}
+\setlength{\headheight}{1.2cm}
+\setlength{\headsep}{8mm}
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+
+%\usepackage[headheight=0.5cm]{geometry}
+%\usepackage[total={18cm,21cm}, top=2.5cm, left=2.5cm, right=2cm]{geometry}
+\usepackage{geometry}
+%\geometry{paper=a4paper}
+
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=27mm,
+ right=25mm,
+ top=25mm,
+ bottom=20mm,
+ }
+
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+%\fancyheadoffset{-1cm}
+\fancyhf{}
+\initcurrdate
+
+\renewcommand{\headrulewidth}{0pt}
+%\rhead{Share\LaTeX}
+\definecolor{blue-istat}{RGB}{0, 44, 89}
+\lhead{
+\color{blue-istat}
+  \begin{tabular}{|l|c|c|}\hline
+ \multirow{4}{*}{\includegraphics[scale=0.1]{imagenes/Logo2.eps}} &\multirow{4}{*}{ \parbox[b]{0.55\textwidth}{\small \centering \MakeUppercase{\nombredocumento}} }&
+\parbox[t]{0.2\textwidth}{ \footnotesize Código: 1PR03F} \\ \cline{3-3}
+ & & \footnotesize Versión: 03\\ \cline{3-3}
+ & & \footnotesize Fecha:  \printfdate{ISOext} \\ \cline{3-3}
+% & & \footnotesize Página: \thepage\\ 
+ \hline 
+  \end{tabular}
+}
+\rfoot{\thepage}
+%\PreviewEnvironment{tabular}
+%%new comments enviorement
+\usepackage{comment}
+\includecomment{instrucciones}
+\specialcomment{instrucciones}
+{\begingroup\itshape }{ \medskip \endgroup}
+\excludecomment{instrucciones}
+
+\includecomment{ideas}
+\specialcomment{ideas}
+{\begingroup}{ \medskip \endgroup}
+\excludecomment{ideas}
+
+\includecomment{evaluacion}
+\specialcomment{evaluacion}
+{\begingroup}{ \medskip \endgroup}
+\excludecomment{evaluacion}
+
+\includecomment{gammalines}
+\specialcomment{gammalines}
+{\begingroup}{ \medskip \endgroup}
+\excludecomment{gammalines}
+
+
+\includecomment{brpvlhc}
+\specialcomment{brpvlhc}
+{\begingroup}{\endgroup}
+%\excludecomment{brpvlhc}
+
+\includecomment{bbrpvlhc}
+\specialcomment{bbrpvlhc}
+{\begingroup}{\endgroup}
+%\excludecomment{bbrpvlhc}
+
+\includecomment{gravitinodm}
+\specialcomment{gravitinodm}
+{\begingroup}{\endgroup}
+%\excludecomment{gravitinodm}
+
+\includecomment{darkmatter}
+\specialcomment{darkmatter}
+{\begingroup}{\endgroup}
+%\excludecomment{darkmatter}
+
+\includecomment{leptogenesis}
+\specialcomment{leptogenesis}
+{\begingroup}{\endgroup}
+%\excludecomment{leptogenesis}
+
+
+\includecomment{proyecto}
+\specialcomment{proyecto}
+{\begingroup}{\endgroup}
+%\excludecomment{proyecto}
+
+
+\includecomment{soloproyecto}
+\specialcomment{soloproyecto}
+{\begingroup}{\endgroup}
+\excludecomment{soloproyecto}
+
+\includecomment{soloficha}
+\specialcomment{soloficha}
+{\begingroup}{\endgroup}
+%\excludecomment{soloficha}
+
+
+\includecomment{evaluador}
+\specialcomment{evaluador}
+{\begingroup}{\endgroup}
+\excludecomment{evaluador}
+
+\includecomment{ingles}
+\specialcomment{ingles}
+{\begingroup}{\endgroup}
+\excludecomment{ingles}
+
+
+\includecomment{includepdfs}
+\specialcomment{includepdfs}
+{\begingroup}{\endgroup}
+%\excludecomment{includepdfs}
+
+\includecomment{informefinal}
+\specialcomment{informefinal}
+{\begingroup}{\endgroup}
+\excludecomment{informefinal}
+
+
+%%Preventing hyphenation of a particular word
+\hyphenation{SPheno}
+\hyphenation{MicroMEGAs}
+\hyphenation{SuSpect}
+\hyphenation{SOFTSUSY}
+\hyphenation{PYTHIA} 
+
+\usepackage[nottoc,numbib]{tocbibind}
+\newcommand{\nombredocumento}{Reglamento Interno}
+\newcommand{\fecha}{AQUÍ LA FECHA}
+\newcommand{\periodo}{2022-2028}
+
+\definecolor{LightBlue2}{cmyk}{0,0.87,0.68,0.32}
+
+
+ 
+\sectionfont{\color{blue-istat}}  % sets colour of sections
+\subsectionfont{\color{blue-istat}}  % sets colour of sections
+
+\definecolor{gris}{RGB}{220,220,220}
+
+\begin{document}
+
+%Descomentar para obtener informacion sensible
+%\input{sensible}
+%\tableofcontents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{general}
+
+\begin{titlepage}
+
+\vspace*{4cm}
+ 
+  % Logo
+  {\centering
+  	\includegraphics[width=.5\textwidth]{imagenes/ISTAT-Portada.png} \\
+  }
+  % Línea gris
+  {\color{gris}\hrule}
+  \vspace*{1cm}
+\begin{center}
+   {\fontsize{20}{28}\selectfont\bfseries \nombredocumento}
+  \hfill
+  
+  \Large{\periodo}
+\end{center}
+
+  \vfill
+%  {\large Autor \hfill \today}
+\end{titlepage}
+%\centering
+	%\includegraphics[width=.5\textwidth]{imagenes/ISTAT-Portada.png}
+	%{\scshape\huge\textbf{\hspace{2cm}\titulo}} \par\vspace{6cm}
+	%{\LARGE
+	%	\begin{center}
+	%	\nombredocumento \\
+	%	\periodo
+	%	\end{center}
+	%}
+%
+%\end{titlepage}
+\newpage
+\begin{center}
+\small
+“Año del Fortalecimiento de la Soberanía Nacional”
+\end{center}
+
+\begin{flushright}
+\small
+Juliaca, xx de marzo de 2022
+\end{flushright}
+
+\begin{flushleft}
+\small
+Se ha expedido la RESOLUCIÓN Nº xxxxx-2022/UPeU-CU; que sigue:
+\end{flushleft}
+
+
+\begin{flushleft}
+\small
+UNIVERSIDAD PERUANA UNIÓN.-  RESOLUCIÓN Nº XXXX 2022/UPEU-CU.- Ñaña, Lima, x de marzo de 2022;
+
+VISTO el acta del Consejo Universitario del x de marzo de 2022;
+\end{flushleft}
+\begin{flushleft}
+\small
+\textbf {CONSIDERANDO:}
+\end{flushleft} 
+
+\begin{flushleft}
+\setlength{\parindent}{2cm}
+\justifying
+\small
+Que la Universidad Peruana Unión (UPeU) tiene autonomía académica, de gobierno, económica, administrativa y normativa, dentro del ámbito establecido por la Ley Universitaria N° 30220 y el Estatuto de la Universidad;
+
+Que el Estatuto establece que la UPeU regula las normas estatutarias a través del Reglamento General;
+
+Que el Reglamento Interno norma, regula y desarrolla las normas estatuarias necesarias para el funcionamiento y desarrollo de las actividades educativas y sus niveles organizativos.
+
+Que dicho documento forma parte de los requisitos establecidos en la Ley Nº 30512 “Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes”
+
+Que, conforme al informe elaborado por Secretaría Académica de la Institución y, en atención a las atribuciones conferidas a través de la Ley Nº 30512 Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes” y el Decreto Supremo Nº 010-2017-MINEDU “Reglamento de la Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes”
+\end{flushleft}
+
+\begin{flushleft}
+\small
+SE RESUELVE:
+\end{flushleft}
+\begin{flushleft}
+\small
+\justifying
+Aprobar el Reglamento Interno – RI, del Instituto Superior No Estatal “Adventista del Titicaca”, y DISPONER su aplicación al día siguiente de su aprobación en la UPeU.
+
+Regístrese y comuníquese. - (FDO). - PhD. Gluder Quispe Huanca, Rector de la Universidad Peruana Unión. - Abog. Rene Wilberth Gonzales Taco, Secretario General de la Universidad Peruana Unión.
+\end{flushleft}
+
+\begin{center}
+\small
+Abog. Rene Wilberth Gonzales Taco
+
+SECRETARIO GENERAL
+\end{center}
+
+
+
+\newpage
+\tableofcontents
+\input{informacion}
+%\newpage
+\label{sec:bib}
+\bibliographystyle{apsrev4-1long} %%h-physrev4
+\bibliography{susy}%%,soko,snova,nu-rev06,parke-ref}
+
+%\end{document}
+\appendix
+\input{anexos}
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "informefinal"
+%%% End: 

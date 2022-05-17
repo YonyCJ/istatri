@@ -1,0 +1,55 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}PRESENTACIÓN}{3}{section.1}%
+\contentsline {section}{\numberline {2}MARCO LEGAL}{4}{section.2}%
+\contentsline {section}{\numberline {3}IDENTIFICACIÓN}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datos Generales del IEST}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Perfil Institucional}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Misión}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Visión}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Valores}{7}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Principios}{8}{subsection.3.6}%
+\contentsline {section}{\numberline {4}ANÁLISIS SITUACIONAL}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Descripción del entorno}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Funcionamiento del Área Pedagógica}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Identificar fuentes de Información}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Contexto de la institución y análisis del entorno de la IEST.}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}PROPUESTA DE GESTIÓN}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Concepción de Gestión}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Modelo de Gestión}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Estructura organizacional}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Procesos de gestión educativa}{14}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Mapa de objetivos estratégicos}{14}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Objetivos de gestión institucional}{15}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Objetivos de gestión académica}{15}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Matriz de indicadores y metas por objetivos}{16}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Iniciativas priorizadas}{17}{subsection.5.9}%
+\contentsline {section}{\numberline {6}PROPUESTA PEDAGÓGICA}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Modelo educativo, ideario y principios}{17}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Declaración general de la filosofía de la Educación Adventista}{17}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Metafísica de la educación}{18}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Epistemología de la educación}{19}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Axiología de la educación}{19}{subsubsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.5}Teología de la educación}{20}{subsubsection.6.1.5}%
+\contentsline {subsubsection}{\numberline {6.1.6}Características fundamentales de la educación adventista}{20}{subsubsection.6.1.6}%
+\contentsline {subsubsection}{\numberline {6.1.7}Cosmovisión bíblica en todas las unidades didácticas de un currículo adventista}{22}{subsubsection.6.1.7}%
+\contentsline {subsubsection}{\numberline {6.1.8}Interculturalidad}{23}{subsubsection.6.1.8}%
+\contentsline {subsubsection}{\numberline {6.1.9}Inclusión social}{23}{subsubsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.2}Enfoque pedagógico curricular}{23}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Interculturalidad}{24}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Inclusión social}{24}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Enfoque pedagógico curricular}{25}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Concepción de Educación}{26}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Concepción de aprendizaje}{26}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Concepción de enseñanza}{27}{subsubsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.4}Estructura Curricular}{27}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}El currículo}{28}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Características del currículo}{28}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Componente estructural del currículo}{29}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Perfil del ingresante y del egresado}{29}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Itinerario formativo de programas}{31}{subsection.6.9}%
+\contentsline {subsubsection}{\numberline {6.9.1}Programa de estudios Desarrollo de Sistemas de Información}{31}{subsubsection.6.9.1}%
+\contentsline {section}{\numberline {7}VENTAJA COMPETITIVA PARA POSICIONAR A LA INSTITUCIÓN}{32}{section.7}%
+\contentsline {section}{\numberline {8}ACCIONES PARA LA IMPLEMENTACIÓN DEL PEI}{32}{section.8}%
+\contentsline {section}{\numberline {9}EVALUACIÓN ANUAL DEL PEI}{33}{section.9}%
+\contentsline {section}{\numberline {10}Siglas y abreviaturas }{33}{section.10}%
+\contentsline {section}{\numberline {A}Anexos}{33}{appendix.Alph1}%

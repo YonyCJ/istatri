@@ -1,0 +1,55 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{xcolor, colortbl}
+\usepackage{lscape}
+\usepackage{array, multirow, multicol}
+\usepackage{geometry}
+
+\definecolor{skyblue6}{rgb}{.2, .6, .8}
+\definecolor{firebrick}{rgb}{.7, .13, .13}
+\definecolor{blueice}{rgb}{.85, .96, .94}
+\definecolor{lightcopper}{rgb}{.93, .76, .58}
+\definecolor{blue-istat}{RGB}{0,44,89} 
+
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=27mm,
+ right=25mm,
+ top=25mm,
+ bottom=20mm,
+ }
+
+\begin{document}
+	\begin{table}[ht]
+		\centering
+		\begin{tabular}{ p{0.6cm} m{7cm} m{1.5cm} m{1.5cm} m{1.5cm} m{1.5cm}}
+			\hline
+			\rowcolor{blue-istat} 
+			
+			\parbox[t]{0.6cm}{\color{white} Cod.} & \parbox[t]{7cm}{\color{white} Componente curricular} & 
+			\parbox[t]{1.5cm}{\color{white}Créditos} & \multicolumn{3}{c|}{ \textcolor{white}{Horas lectivas}} \\
+			\cline{4-6}
+			
+			\rowcolor{blue-istat}
+			                                         &                       &   & \textcolor{white}{Horas teórico-practicas} & \textcolor{white}{Horas prácticas} & \textcolor{white}{Total Horas} \\
+			
+			
+			\centering
+			\centering A & Compentencias específicas & \centering 90 & \centering 496 & \centering 1888 & 1888 \\
+			
+			\centering B & Competencias de empleabilidad & \centering 20 & \centering 144 & \centering 352 & 496\\
+			
+			\centering C & Experiencias formativas en situaciones reales de trabajo & \centering 12 & \centering 0  & \centering 384 & 384 \\
+			
+			\multicolumn{2}{c}{Total (créditos/horas)} & \centering 122 & \centering 640 & \centering 2624 & 3264 \\
+			\hline
+			\end{tabular}
+		\caption{Tabla simple}
+	\end{table}
+\end{document}

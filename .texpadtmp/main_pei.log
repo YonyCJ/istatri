@@ -1,0 +1,2135 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2022.1.15)  11 MAY 2022 15:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main_pei.tex
+(./main_pei.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language87
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks15
+\es@quotdepth=\count189
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen140
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box49
+\extrarowheight=\dimen152
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box50
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks23
+\minrowclearance=\skip54
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count268
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count269
+\LTcapwidth=\dimen153
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count270
+\LT@rows=\count271
+\c@LT@tables=\count272
+\c@LT@chunks=\count273
+\LT@p@ftn=\toks24
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count274
+\multirow@dima=\skip60
+\bigstrutjot=\dimen154
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count275
+\TX@ftn=\toks25
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count276
+\TY@linewidth=\dimen160
+\tymin=\dimen161
+\tymax=\dimen162
+\TY@tablewidth=\dimen163
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count277
+\rotFPtop=\skip61
+\rotFPbot=\skip62
+\rot@float@box=\box55
+\rot@mess@toks=\toks26
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count278
+\calc@Bcount=\count279
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count280
+\calc@Cskip=\skip65
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen166
+\ESO@tempdimb=\dimen167
+)
+\AM@pagewidth=\dimen168
+\AM@pageheight=\dimen169
+\AM@fboxrule=\dimen170
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count281
+\AM@pagebox=\box56
+\AM@global@opts=\toks27
+\AM@pagecnt=\count282
+\AM@toc@title=\toks28
+\c@AM@survey=\count283
+\AM@templatesizebox=\box57
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/numprint/numprint.sty
+Package: numprint 2012/08/20 v1.39 Print numbers (HH)
+\c@nprt@mantissa@digitsbefore=\count284
+\c@nprt@mantissa@digitsafter=\count285
+\c@nprt@exponent@digitsbefore=\count286
+\c@nprt@exponent@digitsafter=\count287
+\nprt@digitwidth=\skip66
+\nprt@sepwidth=\skip67
+\nprt@decimalwidth=\skip68
+\nprt@blockwidth=\skip69
+\nprt@digittoks=\toks29
+\nprt@pretoks=\toks30
+\nprt@posttoks=\toks31
+\nprt@thisdigit=\count288
+\nprt@curpos=\count289
+\nprt@rndpos=\count290
+\c@nprt@digitsfirstblock=\count291
+\c@nprt@blockcnt=\count292
+\c@nprt@cntprint=\count293
+ No configuration file `numprint.cfg' found.) (/usr/local/texlive/2021/texmf-dist/tex/generic/texdate/texdate.sty
+Package: texdate 2018/12/08 v2.0 Print and manipulate dates in plain TeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/modulus/modulus.sty
+Package: modulus 2018/05/07 v1.0 Modulus/modulo operator in plain TeX
+\remainder=\count294
+\intquotient=\count295
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/padcount/padcount.sty
+Package: padcount 2018/05/04 v1.0 Pad numbers with arbitrary characters
+\pad@charcount=\count296
+\pad@tmp=\count297
+\pad@tmpi=\count298
+\pad@num=\count299
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/oberdiek/iflang.sty
+Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package iflang Info: Naming convention for patterns: babel.
+)
+\texd@loopi=\count300
+\texd@mon=\count301
+\texd@dow=\count302
+\texd@dom=\count303
+\texd@yr=\count304
+\texd@rdom=\count305
+\texd@rmon=\count306
+\texd@dow=\count307
+\texd@leap=\count308
+\texd@x=\count309
+\texd@y=\count310
+\texd@leapyear=\count311
+\texd@loopj=\count312
+\texd@looptmp=\count313
+\texd@jnum=\count314
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip70
+\enit@outerparindent=\dimen171
+\enit@toks=\toks32
+\enit@inbox=\box58
+\enit@count@id=\count315
+\enitdp@description=\count316
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count318
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count319
+))
+\c@padzeroesN=\count320
+\fc@tmpcatcode=\count321
+\@DT@modctr=\count322
+\@ordinalctr=\count323
+\@orgargctr=\count324
+\@strctr=\count325
+\@tmpstrctr=\count326
+\@DT@loopN=\count327
+\@DT@X=\count328
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count329
+\@month=\count330
+\@year=\count331
+\c@HOUR=\count332
+\c@HOURXII=\count333
+\c@MINUTE=\count334
+\c@TOHOUR=\count335
+\c@TOMINUTE=\count336
+\c@SECOND=\count337
+\currenthour=\count338
+\currentminute=\count339
+\currentsecond=\count340
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count341
+\dayofyear=\count342
+\dayofweek=\count343
+LaTeX Info: Redefining \today on input line 736.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/dt-spanish.def
+File: dt-spanish.def 2013/09/10
+LaTeX Info: Redefining \datespanish on input line 85.
+)
+\dt@a=\toks35
+\dt@b=\toks36
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count344
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count345
+\FP@xia=\count346
+\FP@xib=\count347
+\FP@xfa=\count348
+\FP@xfb=\count349
+\FP@rega=\count350
+\FP@regb=\count351
+\FP@regs=\count352
+\FP@times=\count353
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count354
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen172
+\Hy@linkcounter=\count355
+\Hy@pagecounter=\count356
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count357
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count358
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen173
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count359
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count360
+\c@Item=\count361
+\c@Hfootnote=\count362
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count363
+\c@bookmark@seq@number=\count364
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip71
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 60.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count365
+\@cmidlb=\count366
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count367
+\@lastruleclass=\count368
+\@thisrulewidth=\dimen188
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count369
+\Gm@cntv=\count370
+\c@Gm@tempcnt=\count371
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks37
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') Include comment 'instrucciones' Special comment 'instrucciones' Excluding comment 'instrucciones' Include comment 'ideas' Special comment 'ideas' Excluding comment 'ideas' Include comment 'evaluacion' Special comment 'evaluacion' Excluding comment 'evaluacion' Include comment 'gammalines' Special comment 'gammalines' Excluding comment 'gammalines' Include comment 'brpvlhc' Special comment 'brpvlhc' Include comment 'bbrpvlhc' Special comment 'bbrpvlhc' Include comment 'gravitinodm' Special comment 'gravitinodm' Include comment 'darkmatter' Special comment 'darkmatter' Include comment 'leptogenesis' Special comment 'leptogenesis' Include comment 'proyecto' Special comment 'proyecto' Include comment 'soloproyecto' Special comment 'soloproyecto' Excluding comment 'soloproyecto' Include comment 'soloficha' Special comment 'soloficha' Include comment 'evaluador' Special comment 'evaluador' Excluding comment 'evaluador' Include comment 'ingles' Special comment 'ingles' Excluding comment 'ingles' Include comment 'includepdfs' Special comment 'includepdfs' Include comment 'informefinal' Special comment 'informefinal' Excluding comment 'informefinal' (/usr/local/texlive/2021/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 237.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count372
+\l__pdf_internal_box=\box59
+)
+
+LaTeX Warning: Unused global option(s):
+    [xcolor=table].
+
+(/Users/abelthf/projects/istat/.texpadtmp/main_pei.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+
+
+LaTeX Warning: Label `fig:mesh1' multiply defined.
+
+
+LaTeX Warning: Label `fig:mesh1' multiply defined.
+
+)
+\openout1 = `main_pei.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 237.
+LaTeX Font Info:    ... okay on input line 237.
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count373
+\scratchdimen=\dimen197
+\scratchbox=\box60
+\nofMPsegments=\count374
+\nofMParguments=\count375
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count376
+\MPscratchDim=\dimen198
+\MPnumerator=\count377
+\makeMPintoPDFobject=\count378
+\everyMPtoPDFconversion=\toks39
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 237.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count379
+)
+LaTeX Info: Redefining \ref on input line 237.
+LaTeX Info: Redefining \pageref on input line 237.
+LaTeX Info: Redefining \nameref on input line 237.
+ (/Users/abelthf/projects/istat/.texpadtmp/main_pei.out) (/Users/abelthf/projects/istat/.texpadtmp/main_pei.out)
+\@outlinefile=\write4
+\openout4 = `main_pei.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(76.82243pt, 449.55356pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 717.00946pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55356pt
+* \textheight=717.00946pt
+* \oddsidemargin=4.55244pt
+* \evensidemargin=4.55244pt
+* \topmargin=-58.04352pt
+* \headheight=34.14322pt
+* \headsep=22.76219pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<imagenes/ISTAT-Portada.png, id=221, 237.0456pt x 227.8914pt>
+File: imagenes/ISTAT-Portada.png Graphic file (type png)
+<use imagenes/ISTAT-Portada.png>
+Package pdftex.def Info: imagenes/ISTAT-Portada.png  used on input line 251.
+(pdftex.def)             Requested size: 224.77678pt x 216.10612pt.
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/ISTAT-Portada.png>] (/Users/abelthf/projects/istat/.texpadtmp/main_pei.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 33.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/Logo2-eps-converted-to.pdf, id=262, 707.64375pt x 274.02374pt>
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 33.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 ...ci√≥n adventista}{20}{subsubsection.6.1.6}
+                                                  % [1 <./imagenes/Logo2-eps-converted-to.pdf>])
+\tf@toc=\write5
+\openout5 = `main_pei.toc'.
+
+ (./informacion.tex
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 7.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 7.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 23.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 23.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[3]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 31.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+Overfull \hbox (5.34789pt too wide) in paragraph at lines 33--34
+[]\OT1/phv/m/n/12 Resoluci[]on de Se-cre-tar[]^^Pa Ge-ne-ral N\TS1/phv/m/n/12 ∫ \OT1/phv/m/n/12 178-2018-MINEDU Li-nea-mien-tos Acad[]emi-
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 45.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 45.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 83.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 83.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 93.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 93.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[6]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[7]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 120.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[8]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 130.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[9]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 160.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 160.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[10]
+Underfull \hbox (badness 1910) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 Gesti[]on ins-ti-tu-
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 Instituci[]on edu-ca-ti-va su-pe-rior
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 No es-tar po-si-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 232--232
+\OT1/phv/m/n/12 cio-na-do en el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Denominaci[]on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 ins-ti-tu-cio-nal
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Poca ex-pe-rien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 ad-mi-nis-tra-ti-vo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 en la ges-ti[]on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 ope-ra-ti-va y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 pro-ce-di-men-tal
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Construir re-des de
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 232--232
+\OT1/phv/m/n/12 apo-yo a trav[]es de
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Ofrecer un ser-vi-cio
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 232--232
+\OT1/phv/m/n/12 for-ma-ci[]on dis-tin-ta a
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 232--232
+\OT1/phv/m/n/12 pe-ten-cia en el en-
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Cambios en la le-
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 232--232
+\OT1/phv/m/n/12 gis-la-ci[]on na-cio-nal y
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Sobre ofer-ta en el
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 232--232
+\OT1/phv/m/n/12 mer-ca-do la-bo-ral de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 cas econ[]omi-cas y
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 232--232
+\OT1/phv/m/n/12 dis-mi-nu-ci[]on del po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 Gesti[]on
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Propuesta cu-rri-cu-lar edu-ca-ti-va
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 232--232
+\OT1/phv/m/n/12 pa[]namien-to y bien-es-tar es-tu-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 232--232
+\OT1/phv/m/n/12 va de los di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 tes tie-nen el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 pa-ra-dig-ma de
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 232--232
+\OT1/phv/m/n/12 edu-ca-ci[]on uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 ver-si-ta-ria con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 ba-jo en-fo-que
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 232--232
+\OT1/phv/m/n/12 a la for-ma-ci[]on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 Formaci[]on y en-
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 232--232
+\OT1/phv/m/n/12 pro-pues-ta acad[]emi-
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 232--232
+[]\OT1/phv/m/n/12 Desarrollo de es-tu-
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 232--232
+\OT1/phv/m/n/12 dian-tes con []enfa-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\OT1/phv/m/n/12 Cambios tec-nol[]ogi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\OT1/phv/m/n/12 cos y edu-ca-ti-vos
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 245.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 245.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 263.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 263.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[12]
+Package epstopdf Info: Source file: <imagenes/organigrama-istat.eps>
+(epstopdf)                    date: 2022-04-26 21:06:11
+(epstopdf)                    size: 1692166 bytes
+(epstopdf)             Output file: <imagenes/organigrama-istat-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-26 21:07:12
+(epstopdf)                    size: 225077 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/organigrama-istat-eps-converted-to.pdf imagenes/organigrama-istat.eps>
+(epstopdf)             \includegraphics on input line 275.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/organigrama-istat-eps-converted-to.pdf, id=342, 554.07pt x 353.32pt>
+File: imagenes/organigrama-istat-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/organigrama-istat-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/organigrama-istat-eps-converted-to.pdf  used on input line 275.
+(pdftex.def)             Requested size: 387.84636pt x 247.32231pt.
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 280.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 280.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[13 <./imagenes/organigrama-istat-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imagenes/mapa-procesos-n-0ai.eps>
+(epstopdf)                    date: 2022-04-26 22:09:19
+(epstopdf)                    size: 2822226 bytes
+(epstopdf)             Output file: <imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-26 22:09:56
+(epstopdf)                    size: 262178 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf imagenes/mapa-procesos-n-0ai.eps>
+(epstopdf)             \includegraphics on input line 285.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf, id=352, 451.6875pt x 183.68625pt>
+File: imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf  used on input line 285.
+(pdftex.def)             Requested size: 361.35048pt x 146.94917pt.
+Package epstopdf Info: Source file: <imagenes/mapa-estrategico.eps>
+(epstopdf)                    date: 2022-04-27 06:53:19
+(epstopdf)                    size: 1767146 bytes
+(epstopdf)             Output file: <imagenes/mapa-estrategico-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-27 06:53:34
+(epstopdf)                    size: 30965 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/mapa-estrategico-eps-converted-to.pdf imagenes/mapa-estrategico.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/mapa-estrategico-eps-converted-to.pdf, id=353, 980.66376pt x 724.7075pt>
+File: imagenes/mapa-estrategico-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/mapa-estrategico-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/mapa-estrategico-eps-converted-to.pdf  used on input line 295.
+(pdftex.def)             Requested size: 392.25854pt x 289.87787pt.
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 300.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 300.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[14 <./imagenes/mapa-procesos-n-0ai-eps-converted-to.pdf> <./imagenes/mapa-estrategico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 323.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 323.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[15]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 326.
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 374.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[16
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 404.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 404.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 424.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 424.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[18]
+Overfull \hbox (3.9686pt too wide) in paragraph at lines 426--427
+[]\OT1/phv/m/n/12 Mostrar que Dios es la reali-dad cen-tral de to-da ac-ti-vi-dad cu-rri-cu-lar y co-curricular. 
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 451.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[19]
+Overfull \hbox (11.73251pt too wide) in paragraph at lines 460--461
+[]\OT1/phv/m/n/12 Promover la au-to-nom[]^^Pa y la au-ten-ti-ci-dad fun-da-das en los va-lo-res b[]^^Pblico-cristianos. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 470.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 470.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 478.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 478.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 484.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 484.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 497.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 497.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 518.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 518.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 535.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 535.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 549.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 549.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 565.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 565.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[27]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 589.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 589.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 600.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 600.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[29]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 602.
+
+
+Overfull \vbox (28.99997pt too high) detected at line 615
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 618.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 618.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[30]
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (5.31888pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/m/n/12 Total 
+ []
+
+
+Overfull \hbox (35.68845pt too wide) in paragraph at lines 928--929
+[][] 
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 932.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 932.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[31
+
+
+]
+Overfull \hbox (8.27185pt too wide) in paragraph at lines 961--961
+[]\OT1/phv/m/n/12 Cod. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--961
+[]|[]\OT1/phv/m/n/12 Horas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--961
+\OT1/phv/m/n/12 te[]orico-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--961
+[]|[]\OT1/phv/m/n/12 Horas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--961
+[]|[]\OT1/phv/m/n/12 Total Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--975
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--977
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--980
+
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 980.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 980.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
+
+ []
+
+) (/Users/abelthf/projects/istat/.texpadtmp/main_pei.bbl) (./anexos.tex)
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 11:47:43
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 11:49:28
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagenes/Logo2-eps-converted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 290.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input line 290.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[33] (/Users/abelthf/projects/istat/.texpadtmp/main_pei.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main_pei.out' has not changed.
+(rerunfilecheck)             Checksum: 4A1C40AB972E10F4EE96402241445A3A;11093.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 69 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 15745 strings out of 478995
+ 227545 string characters out of 5858210
+ 700842 words of memory out of 5000000
+ 32757 multiletter control sequences out of 15000+600000
+ 426692 words of font info for 68 fonts, out of 8000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 83i,26n,88p,1744b,3008s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on /Users/abelthf/projects/istat/.texpadtmp/main_pei.pdf (34 pages, 724338 bytes).
+PDF statistics:
+ 508 PDF objects out of 1000 (max. 8388607)
+ 446 compressed objects within 5 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 458 words of extra memory for PDF output out of 10000 (max. 10000000)
+
