@@ -1,307 +1,307 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {part}{I\hspace {1em}DEL INSTITUTO}{16}{part.1}%
-\contentsline {section}{CAPÍTULO I. DE LA IDENTIDAD, ORIGEN Y LA AUTONOMÍA }{16}{section*.1}%
-\contentsline {subsection}{Artículo 1. ISTAT: Identidad}{16}{subsection*.2}%
-\contentsline {subsection}{Artículo 2. ISTAT: Origen y Promotora}{16}{subsection*.3}%
-\contentsline {subsection}{Artículo 3. ISTAT: Carácter apolítico}{17}{subsection*.4}%
-\contentsline {subsection}{Artículo 4. ISTAT: Domicilio}{17}{subsection*.5}%
-\contentsline {subsection}{Artículo 5. ISTAT: Uso de sigla, emblemas, signos distintivos y derechos de propiedad}{17}{subsection*.6}%
-\contentsline {subsection}{Artículo 6. Alcances}{17}{subsection*.7}%
-\contentsline {subsection}{Artículo 7. Objeto del Reglamento}{17}{subsection*.8}%
-\contentsline {subsection}{Artículo 8. Marco Normativo}{18}{subsection*.9}%
-\contentsline {subsection}{Artículo 9. ISTAT: De la autonomía}{19}{subsection*.10}%
-\contentsline {section}{CAPÍTULO II. DE LOS FINES Y OBJETIVOS }{20}{section*.11}%
-\contentsline {subsection}{Artículo 10. Fines}{20}{subsection*.12}%
-\contentsline {subsection}{Artículo 11. Objetivos}{20}{subsection*.13}%
-\contentsline {subsection}{Artículo 12. Articulación}{21}{subsection*.14}%
-\contentsline {subsection}{Artículo 13. Cooperación}{21}{subsection*.15}%
-\contentsline {section}{CAPÍTULO III. DEL MARCO FILOSÓFICO, AXIOLÓGICO Y PROPÓSITOS }{21}{section*.16}%
-\contentsline {subsection}{Artículo 14. Fundamento}{21}{subsection*.17}%
-\contentsline {subsection}{Artículo 15. Implicancias}{22}{subsection*.18}%
-\contentsline {subsection}{Artículo 16. ISTAT: Cumplimiento del marco filosófico y axiológico}{22}{subsection*.19}%
-\contentsline {subsection}{Artículo 17. ISTAT: Redes interinstitucionales}{22}{subsection*.20}%
-\contentsline {subsection}{Artículo 18. ISTAT: Operador de convenios}{23}{subsection*.21}%
-\contentsline {subsection}{Artículo 19. Red de Educación Adventista}{23}{subsection*.22}%
-\contentsline {subsection}{Artículo 20. Filosofía}{23}{subsection*.23}%
-\contentsline {subsection}{Artículo 21. ISTAT: Implementación de la misión y visión}{23}{subsection*.24}%
-\contentsline {subsection}{Artículo 22. Visión}{23}{subsection*.25}%
-\contentsline {subsection}{Artículo 23. Misión}{23}{subsection*.26}%
-\contentsline {subsection}{Artículo 24. Principios}{24}{subsection*.27}%
-\contentsline {part}{II\hspace {1em}DE LA PROMOTORA}{25}{part.2}%
-\contentsline {subsection}{Artículo 25. Promotora: Definición}{25}{subsection*.28}%
-\contentsline {subsection}{Artículo 26. Promotora: Prerrogativas específicas}{26}{subsection*.29}%
-\contentsline {subsection}{Artículo 27. Promotora: Aplicación del REA en la vida educativa}{26}{subsection*.30}%
-\contentsline {subsection}{Artículo 28. Promotora: Aceptación de donaciones o aporte al ISTAT}{27}{subsection*.31}%
-\contentsline {part}{III\hspace {1em}DEL ÓRGANO DE GOBIERNO DEL ISTAT}{27}{part.3}%
-\contentsline {section}{CAPÍTULO IV. DEL CONSEJO ADMINISTRATIVO}{27}{section*.32}%
-\contentsline {subsection}{Artículo 29. Consejo Administrativo: Agenda de Preconsejo}{27}{subsection*.33}%
-\contentsline {subsection}{Artículo 30. Consejo Administrativo: Estructuración de la preagenda}{27}{subsection*.34}%
-\contentsline {subsection}{Artículo 31. Consejo Administrativo: Aplicación y alcance de los acuerdos}{28}{subsection*.35}%
-\contentsline {subsection}{Artículo 32. Consejo Administrativo: Materias, asuntos o hechos de competencia}{29}{subsection*.36}%
-\contentsline {part}{IV\hspace {1em}DE LA PLANIFICACIÓN Y GESTIÓN INSTITUCIONAL}{29}{part.4}%
-\contentsline {subsection}{Artículo 33. Naturaleza e instrumentos de la Gestión}{30}{subsection*.37}%
-\contentsline {part}{V\hspace {1em}DE LA ADMINISTRACIÓN DEL ISTAT, ORGANIZACIÓN INSTITUCIONAL}{30}{part.5}%
-\contentsline {subsection}{Artículo 34. Administración ISTAT: Naturaleza y alcance}{31}{subsection*.38}%
-\contentsline {subsection}{Artículo 35. Administración ISTAT: Constitución y funcionamiento}{31}{subsection*.39}%
-\contentsline {subsection}{Artículo 36. Administración ISTAT: Coordinación de la Administración}{31}{subsection*.40}%
-\contentsline {subsection}{Artículo 37. Administración ISTAT: Coordinación, articulación y gestión}{31}{subsection*.41}%
-\contentsline {subsection}{Artículo 38. Consejo Administrativo}{32}{subsection*.42}%
-\contentsline {subsection}{Artículo 39. Integrantes}{32}{subsection*.43}%
-\contentsline {subsection}{Artículo 40. Periodo}{33}{subsection*.44}%
-\contentsline {subsection}{Artículo 41. Asesores}{33}{subsection*.45}%
-\contentsline {subsection}{Artículo 42. Atribuciones}{33}{subsection*.46}%
-\contentsline {subsection}{Artículo 43. Convocatoria}{35}{subsection*.47}%
-\contentsline {subsection}{Artículo 44. Libro de actas}{35}{subsection*.48}%
-\contentsline {section}{CAPÍTULO I. DEL DIRECTOR GENERAL}{35}{section*.49}%
-\contentsline {subsection}{Artículo 45. Director General: Periodo y requisito.}{35}{subsection*.50}%
-\contentsline {subsection}{Artículo 46. Director General: Atribuciones en el ámbito educativo}{35}{subsection*.51}%
-\contentsline {subsection}{Artículo 47. Director General: Atribuciones directorales en el ámbito administrativo, económico y financiero}{36}{subsection*.52}%
-\contentsline {subsection}{Artículo 48. Director General: Forma de acreditar el grado}{37}{subsection*.53}%
-\contentsline {subsection}{Artículo 49. Director General: Tipos de representación}{38}{subsection*.54}%
-\contentsline {subsection}{Artículo 50. Director General: Causas y representantes protocolares del Director General}{38}{subsection*.55}%
-\contentsline {subsection}{Artículo 51. Director General: Requisitos para ser apoderado legal del ISTAT}{38}{subsection*.56}%
-\contentsline {subsection}{Artículo 52. Director General: Causas y autorización de ausencia temporal del Director General}{39}{subsection*.57}%
-\contentsline {subsection}{Artículo 53. Director General: Autorización de ausencia del Director General}{39}{subsection*.58}%
-\contentsline {subsection}{Artículo 54. Director General: Caso de ausencia mayor a dos meses del Director General}{39}{subsection*.59}%
-\contentsline {subsection}{Artículo 55. Director General: Inexistencia de autorización de ausencia y consecuencias}{40}{subsection*.60}%
-\contentsline {subsection}{Artículo 56. Director General: Cómputo del período en caso de vacancia de la autoridad estudiantil}{40}{subsection*.61}%
-\contentsline {subsection}{Artículo 57. Director General: Características de la carta de renuncia del Director General}{40}{subsection*.62}%
-\contentsline {subsection}{Artículo 58. Autoridad institucional: Disposición y comunicación de la carta de renuncia}{41}{subsection*.63}%
-\contentsline {section}{CAPÍTULO II. DEL DIRECTOR ACADÉMICO}{41}{section*.64}%
-\contentsline {subsection}{Artículo 59. Director Académico: Periodo}{41}{subsection*.65}%
-\contentsline {subsection}{Artículo 60. Atribuciones del Director académico en la gestión académica}{41}{subsection*.66}%
-\contentsline {subsection}{Artículo 61. Director académico: Atribuciones del director académico en el ámbito curricular}{43}{subsection*.67}%
-\contentsline {subsection}{Artículo 62. Director académico: Ausencia temporal}{44}{subsection*.68}%
-\contentsline {subsection}{Artículo 63. Director académico: Inexistencia de autorización de ausencia y consecuencias}{44}{subsection*.69}%
-\contentsline {subsection}{Artículo 64. Director académico: Representación protocolar}{45}{subsection*.70}%
-\contentsline {section}{CAPÍTULO III. DEL DIRECTOR FINANCIERO}{45}{section*.71}%
-\contentsline {subsection}{Artículo 65. Director Financiero: Periodo}{45}{subsection*.72}%
-\contentsline {subsection}{Artículo 66. Director financiero: Atribuciones en el ámbito económico}{45}{subsection*.73}%
-\contentsline {subsection}{Artículo 67. Director financiero: Atribuciones en el ámbito presupuestario}{46}{subsection*.74}%
-\contentsline {subsection}{Artículo 68. Director financiero: Atribuciones en el ámbito financiero}{47}{subsection*.75}%
-\contentsline {subsection}{Artículo 69. Director financiero: Atribuciones en el ámbito del talento humano}{49}{subsection*.76}%
-\contentsline {subsection}{Artículo 70. Director financiero: Atribuciones en el ámbito de los servicios generales y de apoyo académico}{50}{subsection*.77}%
-\contentsline {section}{CAPÍTULO IV. DEL DIRECTOR DE BIENESTAR ESTUDIANTIL}{51}{section*.78}%
-\contentsline {subsection}{Artículo 71. Director de bienestar estudiantil: Periodo}{51}{subsection*.79}%
-\contentsline {subsection}{Artículo 72. Director de bienestar estudiantil: Rol y función esencial}{51}{subsection*.80}%
-\contentsline {subsection}{Artículo 73. Director de bienestar estudiantil: Atribuciones en el ámbito de los programas de atención al estudiante}{51}{subsection*.81}%
-\contentsline {subsection}{Artículo 74. Director de bienestar estudiantil: Atribuciones en el ámbito del desarrollo espiritual}{53}{subsection*.82}%
-\contentsline {subsection}{Artículo 75. Director de bienestar estudiantil: Atribuciones en el ámbito del desarrollo espiritual}{54}{subsection*.83}%
-\contentsline {subsection}{Artículo 76. Director de bienestar estudiantil: Atribuciones en el ámbito de la disciplina y conducta estudiantil}{56}{subsection*.84}%
-\contentsline {part}{VI\hspace {1em}TÍTULO DE LA ORGANIZACIÓN ACADÉMICA}{58}{part.6}%
-\contentsline {section}{CAPÍTULO V. DE LOS PROGRAMAS DE ESTUDIO}{58}{section*.85}%
-\contentsline {subsection}{Artículo 77. Naturaleza del programa de estudios}{58}{subsection*.86}%
-\contentsline {subsection}{Artículo 78. Programa de estudio: Aprobación de la estructura organizacional y funcional}{58}{subsection*.87}%
-\contentsline {subsection}{Artículo 79. Programa de estudio: Creación, fusión, reorganización o escisión}{59}{subsection*.88}%
-\contentsline {subsection}{Artículo 80. Programa de estudios: Comisión Ad hoc para creación, fusión, escisión, reorganización}{59}{subsection*.89}%
-\contentsline {subsection}{Artículo 81. Programa de estudios: Adscripción de programas de estudios}{59}{subsection*.90}%
-\contentsline {subsection}{Artículo 82. Programas de estudio del ISTAT}{60}{subsection*.91}%
-\contentsline {subsection}{Artículo 83. Programa de formación continua: Concepción y alcances}{60}{subsection*.92}%
-\contentsline {subsection}{Artículo 84. Programa de formación continua: Operador de la gestión académica y administrativa}{60}{subsection*.93}%
-\contentsline {subsection}{Artículo 85. Programa de formación continua: Propósitos y finalidad}{60}{subsection*.94}%
-\contentsline {subsection}{Artículo 86. Programa de formación continua: Marco normativo obligatorio}{61}{subsection*.95}%
-\contentsline {subsection}{Artículo 87. Programa de formación continua: Proyecto de diseño curricular}{61}{subsection*.96}%
-\contentsline {subsection}{Artículo 88. Programa de formación continua: Requisitos específicos de Admisión}{61}{subsection*.97}%
-\contentsline {subsection}{Artículo 89. Programa de formación continua: Aplicación del Reglamento de Estudios a la modalidad}{62}{subsection*.98}%
-\contentsline {section}{SUBCAPÍTULO I. DEL COORDINADOR DEL PROGRAMA DE ESTUDIOS}{62}{section*.99}%
-\contentsline {subsection}{Artículo 90. Coordinador del programa de estudios: Periodo }{62}{subsection*.100}%
-\contentsline {subsection}{Artículo 91. Coordinador del programa de estudios: Requisitos}{62}{subsection*.101}%
-\contentsline {subsection}{Artículo 92. Coordinador del programa de estudios: Atribuciones}{62}{subsection*.102}%
-\contentsline {subsection}{Artículo 93. Coordinador del programa de estudios: Gestión de programas de estudios a distancia}{66}{subsection*.103}%
-\contentsline {subsection}{Artículo 94. Comisiones y Comités}{66}{subsection*.104}%
-\contentsline {part}{VII\hspace {1em}DEL RÉGIMEN ACADÉMICO}{66}{part.7}%
-\contentsline {section}{CAPÍTULO VI. DEL MODELO Y DISEÑO CURRICULAR}{67}{section*.105}%
-\contentsline {subsection}{Artículo 95. Diseño curricular o currículo: Concepción ISTAT}{67}{subsection*.106}%
-\contentsline {subsection}{Artículo 96. Modelo Educativo ISTAT}{67}{subsection*.107}%
-\contentsline {subsection}{Artículo 97. Diseño curricular o currículo: Naturaleza y carácter}{67}{subsection*.108}%
-\contentsline {subsection}{Artículo 98. Diseño curricular o currículo: Áreas curriculares}{68}{subsection*.109}%
-\contentsline {subsection}{Artículo 99. Diseño curricular o currículo: Ponderación y/o distribución del valor académico (créditos)}{68}{subsection*.110}%
-\contentsline {subsection}{Artículo 100. Diseño curricular o currículo: Propuesta y aprobación}{68}{subsection*.111}%
-\contentsline {subsection}{Artículo 101. Diseño curricular o currículo: Vigencia mínima}{68}{subsection*.112}%
-\contentsline {subsection}{Artículo 102. Diseño curricular o currículo: Actualización o modificación de sus componentes}{69}{subsection*.113}%
-\contentsline {subsection}{Artículo 103. Diseño curricular o currículo: Regulaciones específicas}{69}{subsection*.114}%
-\contentsline {section}{CAPÍTULO VII. DE LOS ESTUDIOS}{69}{section*.115}%
-\contentsline {subsection}{Artículo 104. Caracterización y alcance}{69}{subsection*.116}%
-\contentsline {subsection}{Artículo 105. Estudios: Período mínimo}{69}{subsection*.117}%
-\contentsline {subsection}{Artículo 106. Estudios: Período académico mínimo y máximo}{70}{subsection*.118}%
-\contentsline {subsection}{Artículo 107. Estudios: Obtención, título u otro}{70}{subsection*.119}%
-\contentsline {subsection}{Artículo 108. Estudios: Evaluación y monitoreo}{70}{subsection*.120}%
-\contentsline {section}{SUBCAPÍTULO II. DE LAS MODALIDADES DE ESTUDIO}{70}{section*.121}%
-\contentsline {subsection}{Artículo 109. Estudios: Fundamento de su implementación y desarrollo}{70}{subsection*.122}%
-\contentsline {subsection}{Artículo 110. Estudios: Modalidades}{71}{subsection*.123}%
-\contentsline {subsection}{Artículo 111. Estudios Presenciales: Uso de medios, recursos o tecnologías}{71}{subsection*.124}%
-\contentsline {subsection}{Artículo 112. Estudios: Regulación específica}{72}{subsection*.125}%
-\contentsline {section}{CAPÍTULO VIII. DEL PERÍODO O SEMESTRE ACADÉMICO}{72}{section*.126}%
-\contentsline {subsection}{Artículo 113. Período académico: Definición y alcances}{72}{subsection*.127}%
-\contentsline {subsection}{Artículo 114. Período académico: Extraordinarios, subsanación y otros}{72}{subsection*.128}%
-\contentsline {subsection}{Artículo 115. Semestre académico: Inicio y finalización}{73}{subsection*.129}%
-\contentsline {subsection}{Artículo 116. Semestre académico: Actividades académicas}{73}{subsection*.130}%
-\contentsline {subsection}{Artículo 117. Semestre académico: Modificación o reajuste de actividades académicas}{73}{subsection*.131}%
-\contentsline {subsection}{Artículo 118. Semestre académico: Regulación específica y supletoria}{74}{subsection*.132}%
-\contentsline {section}{CAPÍTULO IX. DEL SISTEMA DE EVALUACIÓN}{74}{section*.133}%
-\contentsline {subsection}{Artículo 119. Sistema de evaluación: Alcance}{74}{subsection*.134}%
-\contentsline {subsection}{Artículo 120. Sistema de evaluación: Planificación, Métodos, Estrategias, Técnicas e implicancias}{74}{subsection*.135}%
-\contentsline {subsection}{Artículo 121. Sistema de evaluación: Marco filosófico y educativo}{75}{subsection*.136}%
-\contentsline {subsection}{Artículo 122. Sistema de evaluación: Dimensiones}{75}{subsection*.137}%
-\contentsline {subsection}{Artículo 123. Sistema de evaluación: Técnicas e instrumentos}{75}{subsection*.138}%
-\contentsline {subsection}{Artículo 124. Sistema de evaluación: Período de ejecución}{75}{subsection*.139}%
-\contentsline {subsection}{Artículo 125. Sistema de evaluación: Calificación o valoración numérica}{75}{subsection*.140}%
-\contentsline {subsection}{Artículo 126. Sistema de evaluación: Regulación}{75}{subsection*.141}%
-\contentsline {subsection}{Artículo 127. Nota mínima. La nota mínima aprobatoria en el ISTAT es:}{76}{subsection*.142}%
-\contentsline {subsection}{Artículo 128. Sistema de evaluación: Resultado final}{76}{subsection*.143}%
-\contentsline {subsection}{Artículo 129. Sistema de evaluación: Devolución de instrumentos de evaluación}{76}{subsection*.144}%
-\contentsline {section}{CAPÍTULO X. DE LOS TÍTULOS}{76}{section*.145}%
-\contentsline {subsection}{Artículo 130. Títulos: Potestad}{76}{subsection*.146}%
-\contentsline {subsection}{Artículo 131. Títulos: Órgano competente}{77}{subsection*.147}%
-\contentsline {subsection}{Artículo 132. Títulos: Nomenclatura o denominación}{77}{subsection*.148}%
-\contentsline {subsection}{Artículo 133. Títulos: Aprobación de nomenclatura o denominación}{77}{subsection*.149}%
-\contentsline {subsection}{Artículo 134. Títulos: Obtención}{77}{subsection*.150}%
-\contentsline {subsection}{Artículo 135. Títulos. Los títulos que confiere el ISTAT son}{78}{subsection*.151}%
-\contentsline {subsection}{Artículo 136. Títulos: Modalidad de obtención}{78}{subsection*.152}%
-\contentsline {subsection}{Artículo 137. Títulos: Requisitos}{79}{subsection*.153}%
-\contentsline {subsection}{Artículo 138. Títulos: Duplicado}{79}{subsection*.154}%
-\contentsline {subsection}{Artículo 139. Títulos: Acto académico de colación}{79}{subsection*.155}%
-\contentsline {subsection}{Artículo 140. Títulos Certificado de Estudios}{79}{subsection*.156}%
-\contentsline {subsection}{Artículo 141. Certificado Modular}{79}{subsection*.157}%
-\contentsline {subsection}{Artículo 142. Constancia de egreso}{80}{subsection*.158}%
-\contentsline {subsection}{Artículo 143. Titulados: Restricciones}{80}{subsection*.159}%
-\contentsline {subsection}{Artículo 144. Titulados: Medidas disciplinarias preventivas}{80}{subsection*.160}%
-\contentsline {subsection}{Artículo 145. Titulados: Sanción disciplinaria}{81}{subsection*.161}%
-\contentsline {subsection}{Artículo 146. Titulados: Sentencia judicial consentida}{81}{subsection*.162}%
-\contentsline {subsection}{Artículo 147. Titulados: Seguimiento ISTAT}{81}{subsection*.163}%
-\contentsline {subsection}{Artículo 148. Titulados: Estrategia de seguimiento}{81}{subsection*.164}%
-\contentsline {subsection}{Artículo 149. Titulados: Objetivos del seguimiento}{81}{subsection*.165}%
-\contentsline {section}{CAPÍTULO XI. DE LA MISIÓN, EXTENSIÓN CULTURAL Y PROYECCIÓN SOCIAL}{82}{section*.166}%
-\contentsline {subsection}{Artículo 150. Misión, extensión cultural y proyección social: Organización}{82}{subsection*.167}%
-\contentsline {subsection}{Artículo 151. Misión, extensión cultural y proyección social: Niveles de proyectos}{83}{subsection*.168}%
-\contentsline {subsection}{Artículo 152. Misión, extensión cultural y proyección social: Convenios y redes}{83}{subsection*.169}%
-\contentsline {subsection}{Artículo 153. Misión, extensión cultural y proyección social: Financiamiento}{83}{subsection*.170}%
-\contentsline {subsection}{Artículo 154. Misión, extensión cultural y proyección social: Formulación de programas de extensión cultural}{83}{subsection*.171}%
-\contentsline {subsection}{Artículo 155. Misión, extensión cultural y proyección social: Obligatoriedad de la participación de estudiantes y docentes}{84}{subsection*.172}%
-\contentsline {subsection}{Artículo 156. Misión, extensión cultural y proyección social: Responsabilidad social}{84}{subsection*.173}%
-\contentsline {section}{CAPÍTULO XII. DE LAS EXPERIENCIAS FORMATIVAS EN SITUACIONES REALES DE TRABAJO}{84}{section*.174}%
-\contentsline {subsection}{Artículo 157. Experiencias formativas y la innovación}{84}{subsection*.175}%
-\contentsline {subsection}{Artículo 158. Experiencias Formativas en Situaciones Reales de Trabajo}{84}{subsection*.176}%
-\contentsline {subsection}{Artículo 159. Experiencias Formativas en Situaciones Reales de Trabajo}{85}{subsection*.177}%
-\contentsline {subsection}{Artículo 160. Experiencias Formativas en Situaciones Reales de Trabajo}{85}{subsection*.178}%
-\contentsline {subsection}{Artículo 161. Competencias}{85}{subsection*.179}%
-\contentsline {subsection}{Artículo 162. Del ámbito las experiencias formativas en situación real de trabajo}{86}{subsection*.180}%
-\contentsline {subsection}{Artículo 163. De su evaluación}{86}{subsection*.181}%
-\contentsline {subsection}{Artículo 164. Ejecución y supervisión}{86}{subsection*.182}%
-\contentsline {section}{CAPÍTULO XIII. DE LOS REGISTROS E INFORMACIÓN}{86}{section*.183}%
-\contentsline {subsection}{Artículo 165. Registro y Reporte de Información}{86}{subsection*.184}%
-\contentsline {subsection}{Artículo 166. Los documentos oficiales de información de uso interno del ISTAT son:}{87}{subsection*.185}%
-\contentsline {subsection}{Artículo 167. Registro de Evaluación y Asistencia}{87}{subsection*.186}%
-\contentsline {subsection}{Artículo 168. Supervisión del Registro de Docentes}{87}{subsection*.187}%
-\contentsline {subsection}{Artículo 169. Registro de Matrícula}{87}{subsection*.188}%
-\contentsline {subsection}{Artículo 170. Acta Consolidada de Evaluación del Rendimiento Académico}{88}{subsection*.189}%
-\contentsline {subsection}{Artículo 171. Actas por Unidad Didáctica}{88}{subsection*.190}%
-\contentsline {subsection}{Artículo 172. De la Firma de las Actas}{88}{subsection*.191}%
-\contentsline {subsection}{Artículo 173. Documentos de uso externo}{88}{subsection*.192}%
-\contentsline {section}{CAPÍTULO XIV. DE LA ORGANIZACIÓN CURRICULAR}{89}{section*.193}%
-\contentsline {subsection}{Artículo 174. Diseño Curricular}{89}{subsection*.194}%
-\contentsline {subsection}{Artículo 175. Modelo Curricular}{89}{subsection*.195}%
-\contentsline {subsection}{Artículo 176. Componentes Curriculares}{89}{subsection*.196}%
-\contentsline {subsection}{Artículo 177. Módulos Formativos}{89}{subsection*.197}%
-\contentsline {subsection}{Artículo 178. Competencias Técnicas o Específicas}{89}{subsection*.198}%
-\contentsline {subsection}{Artículo 179. Competencias para la Empleabilidad}{89}{subsection*.199}%
-\contentsline {subsection}{Artículo 180. Competencias de Experiencias Formativas en Situaciones Reales de Trabajo}{90}{subsection*.200}%
-\contentsline {subsection}{Artículo 181. De la tutoría}{90}{subsection*.201}%
-\contentsline {subsection}{Artículo 182. Desarrollo de otras actividades}{90}{subsection*.202}%
-\contentsline {subsection}{Artículo 183. Plan de estudios}{90}{subsection*.203}%
-\contentsline {subsection}{Artículo 184. Régimen de estudios}{90}{subsection*.204}%
-\contentsline {subsection}{Artículo 185. Año Académico}{91}{subsection*.205}%
-\contentsline {part}{VIII\hspace {1em}DE LOS ESTUDIANTES}{91}{part.8}%
-\contentsline {section}{CAPÍTULO XV. DE LA ADMISIÓN, MATRÍCULA Y ESTUDIOS}{91}{section*.206}%
-\contentsline {subsection}{Artículo 186. Estudiantes: Adquisición de la calidad}{91}{subsection*.207}%
-\contentsline {subsection}{Artículo 187. Estudiantes: Admisión}{92}{subsection*.208}%
-\contentsline {subsection}{Artículo 188. Determinación de vacantes}{92}{subsection*.209}%
-\contentsline {subsection}{Artículo 189. De la inscripción y los requisitos de admisión}{92}{subsection*.210}%
-\contentsline {subsection}{Artículo 190. Modalidad de admisión}{93}{subsection*.211}%
-\contentsline {subsection}{Artículo 191. Al matricularse}{94}{subsection*.212}%
-\contentsline {subsection}{Artículo 192. Tienen derecho a matricularse como estudiantes regulares}{94}{subsection*.213}%
-\contentsline {subsection}{Artículo 193. Las acciones vinculadas al proceso de admisión}{94}{subsection*.214}%
-\contentsline {subsection}{Artículo 194. Oportunidad de matrícula}{95}{subsection*.215}%
-\contentsline {subsection}{Artículo 195. Reserva de matrícula}{95}{subsection*.216}%
-\contentsline {subsection}{Artículo 196. Estudiantes: Matrícula condicionada por rendimiento académico}{95}{subsection*.217}%
-\contentsline {subsection}{Artículo 197. Licencia de estudios}{96}{subsection*.218}%
-\contentsline {subsection}{Artículo 198. Reincorporación de matrícula}{96}{subsection*.219}%
-\contentsline {subsection}{Artículo 199. Otorgamiento de becas}{96}{subsection*.220}%
-\contentsline {subsection}{Artículo 200. Descuentos}{97}{subsection*.221}%
-\contentsline {subsection}{Artículo 201. Sanciones y pérdida del derecho}{97}{subsection*.222}%
-\contentsline {section}{CAPÍTULO XVI. DE LOS DEBERES DEL ESTUDIANTE}{97}{section*.223}%
-\contentsline {subsection}{Artículo 202. Deberes}{97}{subsection*.224}%
-\contentsline {subsection}{Artículo 203. Estudiantes: Escenarios de los deberes}{98}{subsection*.225}%
-\contentsline {subsection}{Artículo 204. Estudiantes: Relaciones positivas}{99}{subsection*.226}%
-\contentsline {subsection}{Artículo 205. Estudiantes: Responsable de imagen, prestigio y reputación del ISTAT}{99}{subsection*.227}%
-\contentsline {subsection}{Artículo 206. Estudiantes: Uso autorizado de signos distintivos del ISTAT}{100}{subsection*.228}%
-\contentsline {subsection}{Artículo 207. Estudiantes: Obligatoriedad de participación y asistencia en actividades}{100}{subsection*.229}%
-\contentsline {subsection}{Artículo 208. Estudiantes: Aceptación de la naturaleza y carácter del ISTAT}{100}{subsection*.230}%
-\contentsline {section}{CAPÍTULO XVII. DE LOS DERECHOS}{101}{section*.231}%
-\contentsline {subsection}{Artículo 209. Estudiantes: Ejercicio}{101}{subsection*.232}%
-\contentsline {subsection}{Artículo 210. Derechos}{101}{subsection*.233}%
-\contentsline {subsection}{Artículo 211. Estudiantes: Existencia de limitaciones y restricciones}{102}{subsection*.234}%
-\contentsline {subsection}{Artículo 212. Estudiantes: Evaluación del docente}{102}{subsection*.235}%
-\contentsline {subsection}{Artículo 213. Estudiantes: Distinciones y reconocimientos}{103}{subsection*.236}%
-\contentsline {subsection}{Artículo 214. Estudiantes: Ser escuchado}{104}{subsection*.237}%
-\contentsline {section}{CAPÍTULO XVIII. DE LAS SANCIONES}{105}{section*.238}%
-\contentsline {section}{CAPÍTULO XIX. DE LA CONVALIDACIÓN}{106}{section*.239}%
-\contentsline {subsection}{Artículo 215. Convalidación}{106}{subsection*.240}%
-\contentsline {subsection}{Artículo 216. Proceso de convalidación}{107}{subsection*.241}%
-\contentsline {section}{CAPÍTULO XX. DE LOS TRASLADOS}{108}{section*.242}%
-\contentsline {part}{IX\hspace {1em}DE LOS DOCENTES}{108}{part.9}%
-\contentsline {section}{CAPÍTULO XXI. DE LA SELECCIÓN Y CONCURSO DOCENTE}{108}{section*.243}%
-\contentsline {subsection}{Artículo 217. Docencia: Selección, concurso y régimen}{109}{subsection*.244}%
-\contentsline {subsection}{Artículo 218. Docencia: Modalidades de selección, concurso y régimen aplicable}{109}{subsection*.245}%
-\contentsline {subsection}{Artículo 219. Docencia: Operadores de la selección y concurso}{109}{subsection*.246}%
-\contentsline {section}{CAPÍTULO XXII. DEL RÉGIMEN Y FUNCIONES DOCENTES }{109}{section*.247}%
-\contentsline {subsection}{Artículo 220. Docentes: Funciones}{110}{subsection*.248}%
-\contentsline {subsection}{Artículo 221. Docentes: Régimen laboral de las funciones}{110}{subsection*.249}%
-\contentsline {subsection}{Artículo 222. Régimen de dedicación de los docentes}{110}{subsection*.250}%
-\contentsline {subsection}{Artículo 223. Docentes: Principios de las funciones}{110}{subsection*.251}%
-\contentsline {subsection}{Artículo 224. Docentes: Requisitos para el ejercicio}{111}{subsection*.252}%
-\contentsline {subsection}{Artículo 225. Docentes Contratados: Tipos}{111}{subsection*.253}%
-\contentsline {section}{CAPÍTULO XXIII. DE LOS DEBERES Y DERECHOS DE LOS DOCENTES}{112}{section*.254}%
-\contentsline {subsection}{Artículo 226. Docentes: Deberes misionales}{112}{subsection*.255}%
-\contentsline {subsection}{Artículo 227. Docentes: Deberes normativos}{113}{subsection*.256}%
-\contentsline {subsection}{Artículo 228. Docentes: Deberes de la autonomía académica}{114}{subsection*.257}%
-\contentsline {subsection}{Artículo 229. Docentes: Deberes de la excelencia académica}{115}{subsection*.258}%
-\contentsline {subsection}{Artículo 230. Docentes: Deberes en la gestión}{117}{subsection*.259}%
-\contentsline {subsection}{Artículo 231. Docentes: Deberes en la misión, extensión cultural y proyección social}{117}{subsection*.260}%
-\contentsline {subsection}{Artículo 232. Docentes: Deberes en la capacitación y perfeccionamiento}{118}{subsection*.261}%
-\contentsline {subsection}{Artículo 233. Docentes: Deberes en su conducta}{119}{subsection*.262}%
-\contentsline {subsection}{Artículo 234. Docentes: Deberes en el desempeño docente}{120}{subsection*.263}%
-\contentsline {subsection}{Artículo 235. Docentes: Derechos}{121}{subsection*.264}%
-\contentsline {subsection}{Artículo 236. Docentes: Derecho a asociarse}{122}{subsection*.265}%
-\contentsline {subsection}{Artículo 237. Docentes: Derecho a reconocimientos e incentivos}{122}{subsection*.266}%
-\contentsline {subsection}{Artículo 238. Docentes: Derecho a ser escuchado}{123}{subsection*.267}%
-\contentsline {subsection}{Artículo 239. Docentes: Derecho a presentar informes, asistencia a reuniones y otros}{124}{subsection*.268}%
-\contentsline {section}{CAPÍTULO XXIV. DE LAS SANCIONES E INFRACCIONES}{125}{section*.269}%
-\contentsline {subsection}{Artículo 240. Sanciones}{125}{subsection*.270}%
-\contentsline {subsection}{Artículo 241. Aplicación de sanciones}{125}{subsection*.271}%
-\contentsline {subsection}{Artículo 242. Causas de suspensión y extinción de contrato trabajo}{126}{subsection*.272}%
-\contentsline {subsection}{Artículo 243. Calificación y gravedad de la falta}{126}{subsection*.273}%
-\contentsline {subsection}{Artículo 244. Medidas preventivas}{126}{subsection*.274}%
-\contentsline {part}{X\hspace {1em}DEL RÉGIMEN ECONÓMICO }{126}{part.10}%
-\contentsline {subsection}{Artículo 245. Régimen económico ISTAT}{126}{subsection*.275}%
-\contentsline {subsection}{Artículo 246. Régimen económico ISTAT: Sin fines de lucro}{127}{subsection*.276}%
-\contentsline {subsection}{Artículo 247. Actividad sin fines de lucro}{127}{subsection*.277}%
-\contentsline {section}{CAPÍTULO XXV. DE LOS RECURSOS FINANCIEROS}{128}{section*.278}%
-\contentsline {subsection}{Artículo 248. Recursos financieros}{128}{subsection*.279}%
-\contentsline {section}{CAPÍTULO XXVI. DE LOS BIENES Y BENEFICIOS }{129}{section*.280}%
-\contentsline {subsection}{Artículo 249. Uso de bienes y recursos: Parámetros}{129}{subsection*.281}%
-\contentsline {subsection}{Artículo 250. Uso de bienes y recursos: Prohibiciones}{132}{subsection*.282}%
-\contentsline {subsection}{Artículo 251. Finalidad de la infraestructura}{133}{subsection*.283}%
-\contentsline {subsection}{Artículo 252. Restricciones y limitaciones de uso de infraestructura}{133}{subsection*.284}%
-\contentsline {subsection}{Artículo 253. Operador del uso y acceso a la infraestructura}{134}{subsection*.285}%
-\contentsline {subsection}{Artículo 254. Usos inherentes y colaterales de ambientes}{134}{subsection*.286}%
-\contentsline {subsection}{Artículo 255. Bienes y recursos: Transferir o grabar}{135}{subsection*.287}%
-\contentsline {subsection}{Artículo 256. Bienes y recursos del ISTAT: Áreas de Inversión}{135}{subsection*.288}%
-\contentsline {subsection}{Artículo 257. Resultado del ejercicio económico: Excedentes}{136}{subsection*.289}%
-\contentsline {subsection}{Artículo 258. Resultado del ejercicio económico: Socialización}{136}{subsection*.290}%
-\contentsline {subsection}{Artículo 259. Resultado del ejercicio económico: Reinversión de excedentes}{136}{subsection*.291}%
-\contentsline {subsection}{Artículo 260. Resultado del ejercicio económico: Plan de reinversión}{136}{subsection*.292}%
-\contentsline {subsection}{Artículo 261. Plan de reinversión: Operador}{137}{subsection*.293}%
-\contentsline {subsection}{Artículo 262. Plan de reinversión: Obligaciones en la ejecución}{137}{subsection*.294}%
-\contentsline {subsection}{Artículo 263. Texto Único de Procedimientos Administrativos (TUPA)}{139}{subsection*.295}%
-\contentsline {section}{Anexos}{139}{section*.296}%
+\contentsline {part}{I\hspace {1em}TÍTULO I. DEL INSTITUTO}{13}{part.1}%
+\contentsline {section}{CAPÍTULO I. DE LA IDENTIDAD, ORIGEN Y LA AUTONOMÍA }{13}{section*.1}%
+\contentsline {subsection}{Artículo 2. ISTAT: Identidad}{13}{subsection*.2}%
+\contentsline {subsection}{Artículo 3. ISTAT: Origen y Promotora}{13}{subsection*.3}%
+\contentsline {subsection}{Artículo 4. ISTAT: Carácter apolítico}{14}{subsection*.4}%
+\contentsline {subsection}{Artículo 5. ISTAT: Domicilio}{14}{subsection*.5}%
+\contentsline {subsection}{Artículo 6. ISTAT: Uso de sigla, emblemas, signos distintivos y derechos de propiedad}{14}{subsection*.6}%
+\contentsline {subsection}{Artículo 7. Alcances}{14}{subsection*.7}%
+\contentsline {subsection}{Artículo 8. Objeto del Reglamento}{14}{subsection*.8}%
+\contentsline {subsection}{Artículo 9. Marco Normativo}{15}{subsection*.9}%
+\contentsline {subsection}{Artículo 10. ISTAT: De la autonomía}{16}{subsection*.10}%
+\contentsline {section}{CAPÍTULO II. DE LOS FINES Y OBJETIVOS }{17}{section*.11}%
+\contentsline {subsection}{Artículo 11. Fines}{17}{subsection*.12}%
+\contentsline {subsection}{Artículo 12. Objetivos}{17}{subsection*.13}%
+\contentsline {subsection}{Artículo 13. Articulación}{18}{subsection*.14}%
+\contentsline {subsection}{Artículo 14. Cooperación}{18}{subsection*.15}%
+\contentsline {section}{CAPÍTULO III. DEL MARCO FILOSÓFICO, AXIOLÓGICO Y PROPÓSITOS }{18}{section*.16}%
+\contentsline {subsection}{Artículo 15. Fundamento}{18}{subsection*.17}%
+\contentsline {subsection}{Artículo 16. Implicancias}{19}{subsection*.18}%
+\contentsline {subsection}{Artículo 17. ISTAT: Cumplimiento del marco filosófico y axiológico}{19}{subsection*.19}%
+\contentsline {subsection}{Artículo 18. ISTAT: Redes interinstitucionales}{19}{subsection*.20}%
+\contentsline {subsection}{Artículo 19. ISTAT: Operador de convenios}{20}{subsection*.21}%
+\contentsline {subsection}{Artículo 20. Red de Educación Adventista}{20}{subsection*.22}%
+\contentsline {subsection}{Artículo 21. Filosofía}{20}{subsection*.23}%
+\contentsline {subsection}{Artículo 22. ISTAT: Implementación de la misión y visión}{20}{subsection*.24}%
+\contentsline {subsection}{Artículo 23. Visión}{20}{subsection*.25}%
+\contentsline {subsection}{Artículo 24. Misión}{20}{subsection*.26}%
+\contentsline {subsection}{Artículo 25. Principios}{21}{subsection*.27}%
+\contentsline {part}{II\hspace {1em}TÍTULO I. DE LA PROMOTORA}{22}{part.2}%
+\contentsline {subsection}{Artículo 27. Promotora: Definición}{22}{subsection*.28}%
+\contentsline {subsection}{Artículo 28. Promotora: Prerrogativas específicas}{23}{subsection*.29}%
+\contentsline {subsection}{Artículo 29. Promotora: Aplicación del REA en la vida educativa}{23}{subsection*.30}%
+\contentsline {subsection}{Artículo 30. Promotora: Aceptación de donaciones o aporte al ISTAT}{24}{subsection*.31}%
+\contentsline {part}{III\hspace {1em}TÍTULO I. DEL ÓRGANO DE GOBIERNO DEL ISTAT}{24}{part.3}%
+\contentsline {section}{CAPÍTULO I. DEL CONSEJO ADMINISTRATIVO}{24}{section*.32}%
+\contentsline {subsection}{Artículo 33. Consejo Administrativo: Agenda de Preconsejo}{24}{subsection*.33}%
+\contentsline {subsection}{Artículo 34. Consejo Administrativo: Estructuración de la preagenda}{24}{subsection*.34}%
+\contentsline {subsection}{Artículo 35. Consejo Administrativo: Aplicación y alcance de los acuerdos}{25}{subsection*.35}%
+\contentsline {subsection}{Artículo 36. Consejo Administrativo: Materias, asuntos o hechos de competencia}{26}{subsection*.36}%
+\contentsline {part}{IV\hspace {1em}TÍTULO I. DE LA PLANIFICACIÓN Y GESTIÓN INSTITUCIONAL}{26}{part.4}%
+\contentsline {subsection}{Artículo 38. Naturaleza e instrumentos de la Gestión}{27}{subsection*.37}%
+\contentsline {part}{V\hspace {1em}TÍTULO I. DE LA ADMINISTRACIÓN DEL ISTAT, ORGANIZACIÓN INSTITUCIONAL}{27}{part.5}%
+\contentsline {subsection}{Artículo 40. Administración ISTAT: Naturaleza y alcance}{28}{subsection*.38}%
+\contentsline {subsection}{Artículo 41. Administración ISTAT: Constitución y funcionamiento}{28}{subsection*.39}%
+\contentsline {subsection}{Artículo 42. Administración ISTAT: Coordinación de la Administración}{28}{subsection*.40}%
+\contentsline {subsection}{Artículo 43. Administración ISTAT: Coordinación, articulación y gestión}{28}{subsection*.41}%
+\contentsline {subsection}{Artículo 44. Consejo Administrativo}{29}{subsection*.42}%
+\contentsline {subsection}{Artículo 45. Integrantes}{29}{subsection*.43}%
+\contentsline {subsection}{Artículo 46. Periodo}{30}{subsection*.44}%
+\contentsline {subsection}{Artículo 47. Asesores}{30}{subsection*.45}%
+\contentsline {subsection}{Artículo 48. Atribuciones}{30}{subsection*.46}%
+\contentsline {subsection}{Artículo 49. Convocatoria}{32}{subsection*.47}%
+\contentsline {subsection}{Artículo 50. Libro de actas}{32}{subsection*.48}%
+\contentsline {section}{CAPÍTULO I. DEL DIRECTOR GENERAL}{32}{section*.49}%
+\contentsline {subsection}{Artículo 51. Director General: Periodo y requisito.}{32}{subsection*.50}%
+\contentsline {subsection}{Artículo 52. Director General: Atribuciones en el ámbito educativo}{32}{subsection*.51}%
+\contentsline {subsection}{Artículo 53. Director General: Atribuciones directorales en el ámbito administrativo, económico y financiero}{33}{subsection*.52}%
+\contentsline {subsection}{Artículo 54. Director General: Forma de acreditar el grado}{34}{subsection*.53}%
+\contentsline {subsection}{Artículo 55. Director General: Tipos de representación}{35}{subsection*.54}%
+\contentsline {subsection}{Artículo 56. Director General: Causas y representantes protocolares del Director General}{35}{subsection*.55}%
+\contentsline {subsection}{Artículo 57. Director General: Requisitos para ser apoderado legal del ISTAT}{35}{subsection*.56}%
+\contentsline {subsection}{Artículo 58. Director General: Causas y autorización de ausencia temporal del Director General}{36}{subsection*.57}%
+\contentsline {subsection}{Artículo 59. Director General: Autorización de ausencia del Director General}{36}{subsection*.58}%
+\contentsline {subsection}{Artículo 60. Director General: Caso de ausencia mayor a dos meses del Director General}{36}{subsection*.59}%
+\contentsline {subsection}{Artículo 61. Director General: Inexistencia de autorización de ausencia y consecuencias}{37}{subsection*.60}%
+\contentsline {subsection}{Artículo 62. Director General: Cómputo del período en caso de vacancia de la autoridad estudiantil}{37}{subsection*.61}%
+\contentsline {subsection}{Artículo 63. Director General: Características de la carta de renuncia del Director General}{37}{subsection*.62}%
+\contentsline {subsection}{Artículo 64. Autoridad institucional: Disposición y comunicación de la carta de renuncia}{38}{subsection*.63}%
+\contentsline {section}{CAPÍTULO II. DEL DIRECTOR ACADÉMICO}{38}{section*.64}%
+\contentsline {subsection}{Artículo 65. Director Académico: Periodo}{38}{subsection*.65}%
+\contentsline {subsection}{Artículo 66. Atribuciones del Director académico en la gestión académica}{38}{subsection*.66}%
+\contentsline {subsection}{Artículo 67. Director académico: Atribuciones del director académico en el ámbito curricular}{40}{subsection*.67}%
+\contentsline {subsection}{Artículo 68. Director académico: Ausencia temporal}{41}{subsection*.68}%
+\contentsline {subsection}{Artículo 69. Director académico: Inexistencia de autorización de ausencia y consecuencias}{41}{subsection*.69}%
+\contentsline {subsection}{Artículo 70. Director académico: Representación protocolar}{42}{subsection*.70}%
+\contentsline {section}{CAPÍTULO III. DEL DIRECTOR FINANCIERO}{42}{section*.71}%
+\contentsline {subsection}{Artículo 71. Director Financiero: Periodo}{42}{subsection*.72}%
+\contentsline {subsection}{Artículo 72. Director financiero: Atribuciones en el ámbito económico}{42}{subsection*.73}%
+\contentsline {subsection}{Artículo 73. Director financiero: Atribuciones en el ámbito presupuestario}{43}{subsection*.74}%
+\contentsline {subsection}{Artículo 74. Director financiero: Atribuciones en el ámbito financiero}{44}{subsection*.75}%
+\contentsline {subsection}{Artículo 75. Director financiero: Atribuciones en el ámbito del talento humano}{46}{subsection*.76}%
+\contentsline {subsection}{Artículo 76. Director financiero: Atribuciones en el ámbito de los servicios generales y de apoyo académico}{47}{subsection*.77}%
+\contentsline {section}{CAPÍTULO IV. DEL DIRECTOR DE BIENESTAR ESTUDIANTIL}{48}{section*.78}%
+\contentsline {subsection}{Artículo 77. Director de bienestar estudiantil: Periodo}{48}{subsection*.79}%
+\contentsline {subsection}{Artículo 78. Director de bienestar estudiantil: Rol y función esencial}{48}{subsection*.80}%
+\contentsline {subsection}{Artículo 79. Director de bienestar estudiantil: Atribuciones en el ámbito de los programas de atención al estudiante}{48}{subsection*.81}%
+\contentsline {subsection}{Artículo 80. Director de bienestar estudiantil: Atribuciones en el ámbito del desarrollo espiritual}{50}{subsection*.82}%
+\contentsline {subsection}{Artículo 81. Director de bienestar estudiantil: Atribuciones en el ámbito del desarrollo espiritual}{51}{subsection*.83}%
+\contentsline {subsection}{Artículo 82. Director de bienestar estudiantil: Atribuciones en el ámbito de la disciplina y conducta estudiantil}{53}{subsection*.84}%
+\contentsline {part}{VI\hspace {1em}TÍTULO I. DE LA ORGANIZACIÓN ACADÉMICA}{55}{part.6}%
+\contentsline {section}{CAPÍTULO I. DE LOS PROGRAMAS DE ESTUDIO}{55}{section*.85}%
+\contentsline {subsection}{Artículo 84. Naturaleza del programa de estudios}{55}{subsection*.86}%
+\contentsline {subsection}{Artículo 85. Programa de estudio: Aprobación de la estructura organizacional y funcional}{55}{subsection*.87}%
+\contentsline {subsection}{Artículo 86. Programa de estudio: Creación, fusión, reorganización o escisión}{56}{subsection*.88}%
+\contentsline {subsection}{Artículo 87. Programa de estudios: Comisión Ad hoc para creación, fusión, escisión, reorganización}{56}{subsection*.89}%
+\contentsline {subsection}{Artículo 88. Programa de estudios: Adscripción de programas de estudios}{56}{subsection*.90}%
+\contentsline {subsection}{Artículo 89. Programas de estudio del ISTAT}{57}{subsection*.91}%
+\contentsline {subsection}{Artículo 90. Programa de formación continua: Concepción y alcances}{57}{subsection*.92}%
+\contentsline {subsection}{Artículo 91. Programa de formación continua: Operador de la gestión académica y administrativa}{57}{subsection*.93}%
+\contentsline {subsection}{Artículo 92. Programa de formación continua: Propósitos y finalidad}{57}{subsection*.94}%
+\contentsline {subsection}{Artículo 93. Programa de formación continua: Marco normativo obligatorio}{58}{subsection*.95}%
+\contentsline {subsection}{Artículo 94. Programa de formación continua: Proyecto de diseño curricular}{58}{subsection*.96}%
+\contentsline {subsection}{Artículo 95. Programa de formación continua: Requisitos específicos de Admisión}{58}{subsection*.97}%
+\contentsline {subsection}{Artículo 96. Programa de formación continua: Aplicación del Reglamento de Estudios a la modalidad}{59}{subsection*.98}%
+\contentsline {section}{SUBCAPÍTULO I. DEL COORDINADOR DEL PROGRAMA DE ESTUDIOS}{59}{section*.99}%
+\contentsline {subsection}{Artículo 97. Coordinador del programa de estudios: Periodo }{59}{subsection*.100}%
+\contentsline {subsection}{Artículo 98. Coordinador del programa de estudios: Requisitos}{59}{subsection*.101}%
+\contentsline {subsection}{Artículo 99. Coordinador del programa de estudios: Atribuciones}{59}{subsection*.102}%
+\contentsline {subsection}{Artículo 100. Coordinador del programa de estudios: Gestión de programas de estudios a distancia}{63}{subsection*.103}%
+\contentsline {subsection}{Artículo 101. Comisiones y Comités}{63}{subsection*.104}%
+\contentsline {part}{VII\hspace {1em}TÍTULO I. DEL RÉGIMEN ACADÉMICO}{63}{part.7}%
+\contentsline {section}{CAPÍTULO I. DEL MODELO Y DISEÑO CURRICULAR}{64}{section*.105}%
+\contentsline {subsection}{Artículo 103. Diseño curricular o currículo: Concepción ISTAT}{64}{subsection*.106}%
+\contentsline {subsection}{Artículo 104. Modelo Educativo ISTAT}{64}{subsection*.107}%
+\contentsline {subsection}{Artículo 105. Diseño curricular o currículo: Naturaleza y carácter}{64}{subsection*.108}%
+\contentsline {subsection}{Artículo 106. Diseño curricular o currículo: Áreas curriculares}{65}{subsection*.109}%
+\contentsline {subsection}{Artículo 107. Diseño curricular o currículo: Ponderación y/o distribución del valor académico (créditos)}{65}{subsection*.110}%
+\contentsline {subsection}{Artículo 108. Diseño curricular o currículo: Propuesta y aprobación}{65}{subsection*.111}%
+\contentsline {subsection}{Artículo 109. Diseño curricular o currículo: Vigencia mínima}{65}{subsection*.112}%
+\contentsline {subsection}{Artículo 110. Diseño curricular o currículo: Actualización o modificación de sus componentes}{66}{subsection*.113}%
+\contentsline {subsection}{Artículo 111. Diseño curricular o currículo: Regulaciones específicas}{66}{subsection*.114}%
+\contentsline {section}{CAPÍTULO II. DE LOS ESTUDIOS}{66}{section*.115}%
+\contentsline {subsection}{Artículo 112. Caracterización y alcance}{66}{subsection*.116}%
+\contentsline {subsection}{Artículo 113. Estudios: Período mínimo}{66}{subsection*.117}%
+\contentsline {subsection}{Artículo 114. Estudios: Período académico mínimo y máximo}{67}{subsection*.118}%
+\contentsline {subsection}{Artículo 115. Estudios: Obtención, título u otro}{67}{subsection*.119}%
+\contentsline {subsection}{Artículo 116. Estudios: Evaluación y monitoreo}{67}{subsection*.120}%
+\contentsline {section}{SUBCAPÍTULO I. DE LAS MODALIDADES DE ESTUDIO}{67}{section*.121}%
+\contentsline {subsection}{Artículo 117. Estudios: Fundamento de su implementación y desarrollo}{67}{subsection*.122}%
+\contentsline {subsection}{Artículo 118. Estudios: Modalidades}{68}{subsection*.123}%
+\contentsline {subsection}{Artículo 119. Estudios Presenciales: Uso de medios, recursos o tecnologías}{68}{subsection*.124}%
+\contentsline {subsection}{Artículo 120. Estudios: Regulación específica}{69}{subsection*.125}%
+\contentsline {section}{CAPÍTULO III. DEL PERÍODO O SEMESTRE ACADÉMICO}{69}{section*.126}%
+\contentsline {subsection}{Artículo 121. Período académico: Definición y alcances}{69}{subsection*.127}%
+\contentsline {subsection}{Artículo 122. Período académico: Extraordinarios, subsanación y otros}{69}{subsection*.128}%
+\contentsline {subsection}{Artículo 123. Semestre académico: Inicio y finalización}{70}{subsection*.129}%
+\contentsline {subsection}{Artículo 124. Semestre académico: Actividades académicas}{70}{subsection*.130}%
+\contentsline {subsection}{Artículo 125. Semestre académico: Modificación o reajuste de actividades académicas}{70}{subsection*.131}%
+\contentsline {subsection}{Artículo 126. Semestre académico: Regulación específica y supletoria}{71}{subsection*.132}%
+\contentsline {section}{CAPÍTULO IV. DEL SISTEMA DE EVALUACIÓN}{71}{section*.133}%
+\contentsline {subsection}{Artículo 127. Sistema de evaluación: Alcance}{71}{subsection*.134}%
+\contentsline {subsection}{Artículo 128. Sistema de evaluación: Planificación, Métodos, Estrategias, Técnicas e implicancias}{71}{subsection*.135}%
+\contentsline {subsection}{Artículo 129. Sistema de evaluación: Marco filosófico y educativo}{72}{subsection*.136}%
+\contentsline {subsection}{Artículo 130. Sistema de evaluación: Dimensiones}{72}{subsection*.137}%
+\contentsline {subsection}{Artículo 131. Sistema de evaluación: Técnicas e instrumentos}{72}{subsection*.138}%
+\contentsline {subsection}{Artículo 132. Sistema de evaluación: Período de ejecución}{72}{subsection*.139}%
+\contentsline {subsection}{Artículo 133. Sistema de evaluación: Calificación o valoración numérica}{72}{subsection*.140}%
+\contentsline {subsection}{Artículo 134. Sistema de evaluación: Regulación}{72}{subsection*.141}%
+\contentsline {subsection}{Artículo 135. Nota mínima. La nota mínima aprobatoria en el ISTAT es:}{73}{subsection*.142}%
+\contentsline {subsection}{Artículo 136. Sistema de evaluación: Resultado final}{73}{subsection*.143}%
+\contentsline {subsection}{Artículo 137. Sistema de evaluación: Devolución de instrumentos de evaluación}{73}{subsection*.144}%
+\contentsline {section}{CAPÍTULO V. DE LOS TÍTULOS}{73}{section*.145}%
+\contentsline {subsection}{Artículo 138. Títulos: Potestad}{73}{subsection*.146}%
+\contentsline {subsection}{Artículo 139. Títulos: Órgano competente}{74}{subsection*.147}%
+\contentsline {subsection}{Artículo 140. Títulos: Nomenclatura o denominación}{74}{subsection*.148}%
+\contentsline {subsection}{Artículo 141. Títulos: Aprobación de nomenclatura o denominación}{74}{subsection*.149}%
+\contentsline {subsection}{Artículo 142. Títulos: Obtención}{74}{subsection*.150}%
+\contentsline {subsection}{Artículo 143. Títulos. Los títulos que confiere el ISTAT son}{75}{subsection*.151}%
+\contentsline {subsection}{Artículo 144. Títulos: Modalidad de obtención}{75}{subsection*.152}%
+\contentsline {subsection}{Artículo 145. Títulos: Requisitos}{76}{subsection*.153}%
+\contentsline {subsection}{Artículo 146. Títulos: Duplicado}{76}{subsection*.154}%
+\contentsline {subsection}{Artículo 147. Títulos: Acto académico de colación}{76}{subsection*.155}%
+\contentsline {subsection}{Artículo 148. Títulos Certificado de Estudios}{76}{subsection*.156}%
+\contentsline {subsection}{Artículo 149. Certificado Modular}{76}{subsection*.157}%
+\contentsline {subsection}{Artículo 150. Constancia de egreso}{77}{subsection*.158}%
+\contentsline {subsection}{Artículo 151. Titulados: Restricciones}{77}{subsection*.159}%
+\contentsline {subsection}{Artículo 152. Titulados: Medidas disciplinarias preventivas}{77}{subsection*.160}%
+\contentsline {subsection}{Artículo 153. Titulados: Sanción disciplinaria}{78}{subsection*.161}%
+\contentsline {subsection}{Artículo 154. Titulados: Sentencia judicial consentida}{78}{subsection*.162}%
+\contentsline {subsection}{Artículo 155. Titulados: Seguimiento ISTAT}{78}{subsection*.163}%
+\contentsline {subsection}{Artículo 156. Titulados: Estrategia de seguimiento}{78}{subsection*.164}%
+\contentsline {subsection}{Artículo 157. Titulados: Objetivos del seguimiento}{78}{subsection*.165}%
+\contentsline {section}{CAPÍTULO VI. DE LA MISIÓN, EXTENSIÓN CULTURAL Y PROYECCIÓN SOCIAL}{79}{section*.166}%
+\contentsline {subsection}{Artículo 158. Misión, extensión cultural y proyección social: Organización}{79}{subsection*.167}%
+\contentsline {subsection}{Artículo 159. Misión, extensión cultural y proyección social: Niveles de proyectos}{80}{subsection*.168}%
+\contentsline {subsection}{Artículo 160. Misión, extensión cultural y proyección social: Convenios y redes}{80}{subsection*.169}%
+\contentsline {subsection}{Artículo 161. Misión, extensión cultural y proyección social: Financiamiento}{80}{subsection*.170}%
+\contentsline {subsection}{Artículo 162. Misión, extensión cultural y proyección social: Formulación de programas de extensión cultural}{80}{subsection*.171}%
+\contentsline {subsection}{Artículo 163. Misión, extensión cultural y proyección social: Obligatoriedad de la participación de estudiantes y docentes}{81}{subsection*.172}%
+\contentsline {subsection}{Artículo 164. Misión, extensión cultural y proyección social: Responsabilidad social}{81}{subsection*.173}%
+\contentsline {section}{CAPÍTULO VII. DE LAS EXPERIENCIAS FORMATIVAS EN SITUACIONES REALES DE TRABAJO}{81}{section*.174}%
+\contentsline {subsection}{Artículo 165. Experiencias formativas y la innovación}{81}{subsection*.175}%
+\contentsline {subsection}{Artículo 166. Experiencias Formativas en Situaciones Reales de Trabajo}{81}{subsection*.176}%
+\contentsline {subsection}{Artículo 167. Experiencias Formativas en Situaciones Reales de Trabajo}{82}{subsection*.177}%
+\contentsline {subsection}{Artículo 168. Experiencias Formativas en Situaciones Reales de Trabajo}{82}{subsection*.178}%
+\contentsline {subsection}{Artículo 169. Competencias}{82}{subsection*.179}%
+\contentsline {subsection}{Artículo 170. Del ámbito las experiencias formativas en situación real de trabajo}{83}{subsection*.180}%
+\contentsline {subsection}{Artículo 171. De su evaluación}{83}{subsection*.181}%
+\contentsline {subsection}{Artículo 172. Ejecución y supervisión}{83}{subsection*.182}%
+\contentsline {section}{CAPÍTULO VIII. DE LOS REGISTROS E INFORMACIÓN}{83}{section*.183}%
+\contentsline {subsection}{Artículo 173. Registro y Reporte de Información}{83}{subsection*.184}%
+\contentsline {subsection}{Artículo 174. Los documentos oficiales de información de uso interno del ISTAT son:}{84}{subsection*.185}%
+\contentsline {subsection}{Artículo 175. Registro de Evaluación y Asistencia}{84}{subsection*.186}%
+\contentsline {subsection}{Artículo 176. Supervisión del Registro de Docentes}{84}{subsection*.187}%
+\contentsline {subsection}{Artículo 177. Registro de Matrícula}{84}{subsection*.188}%
+\contentsline {subsection}{Artículo 178. Acta Consolidada de Evaluación del Rendimiento Académico}{85}{subsection*.189}%
+\contentsline {subsection}{Artículo 179. Actas por Unidad Didáctica}{85}{subsection*.190}%
+\contentsline {subsection}{Artículo 180. De la Firma de las Actas}{85}{subsection*.191}%
+\contentsline {subsection}{Artículo 181. Documentos de uso externo}{85}{subsection*.192}%
+\contentsline {section}{CAPÍTULO IX. DE LA ORGANIZACIÓN CURRICULAR}{86}{section*.193}%
+\contentsline {subsection}{Artículo 182. Diseño Curricular}{86}{subsection*.194}%
+\contentsline {subsection}{Artículo 183. Modelo Curricular}{86}{subsection*.195}%
+\contentsline {subsection}{Artículo 184. Componentes Curriculares}{86}{subsection*.196}%
+\contentsline {subsection}{Artículo 185. Módulos Formativos}{86}{subsection*.197}%
+\contentsline {subsection}{Artículo 186. Competencias Técnicas o Específicas}{86}{subsection*.198}%
+\contentsline {subsection}{Artículo 187. Competencias para la Empleabilidad}{86}{subsection*.199}%
+\contentsline {subsection}{Artículo 188. Competencias de Experiencias Formativas en Situaciones Reales de Trabajo}{87}{subsection*.200}%
+\contentsline {subsection}{Artículo 189. De la tutoría}{87}{subsection*.201}%
+\contentsline {subsection}{Artículo 190. Desarrollo de otras actividades}{87}{subsection*.202}%
+\contentsline {subsection}{Artículo 191. Plan de estudios}{87}{subsection*.203}%
+\contentsline {subsection}{Artículo 192. Régimen de estudios}{87}{subsection*.204}%
+\contentsline {subsection}{Artículo 193. Año Académico}{88}{subsection*.205}%
+\contentsline {part}{VIII\hspace {1em}TÍTULO I. DE LOS ESTUDIANTES}{88}{part.8}%
+\contentsline {section}{CAPÍTULO I. DE LA ADMISIÓN, MATRÍCULA Y ESTUDIOS}{88}{section*.206}%
+\contentsline {subsection}{Artículo 195. Estudiantes: Adquisición de la calidad}{88}{subsection*.207}%
+\contentsline {subsection}{Artículo 196. Estudiantes: Admisión}{89}{subsection*.208}%
+\contentsline {subsection}{Artículo 197. Determinación de vacantes}{89}{subsection*.209}%
+\contentsline {subsection}{Artículo 198. De la inscripción y los requisitos de admisión}{89}{subsection*.210}%
+\contentsline {subsection}{Artículo 199. Modalidad de admisión}{90}{subsection*.211}%
+\contentsline {subsection}{Artículo 200. Al matricularse}{91}{subsection*.212}%
+\contentsline {subsection}{Artículo 201. Tienen derecho a matricularse como estudiantes regulares}{91}{subsection*.213}%
+\contentsline {subsection}{Artículo 202. Las acciones vinculadas al proceso de admisión}{91}{subsection*.214}%
+\contentsline {subsection}{Artículo 203. Oportunidad de matrícula}{92}{subsection*.215}%
+\contentsline {subsection}{Artículo 204. Reserva de matrícula}{92}{subsection*.216}%
+\contentsline {subsection}{Artículo 205. Estudiantes: Matrícula condicionada por rendimiento académico}{92}{subsection*.217}%
+\contentsline {subsection}{Artículo 206. Licencia de estudios}{93}{subsection*.218}%
+\contentsline {subsection}{Artículo 207. Reincorporación de matrícula}{93}{subsection*.219}%
+\contentsline {subsection}{Artículo 208. Otorgamiento de becas}{93}{subsection*.220}%
+\contentsline {subsection}{Artículo 209. Descuentos}{94}{subsection*.221}%
+\contentsline {subsection}{Artículo 210. Sanciones y pérdida del derecho}{94}{subsection*.222}%
+\contentsline {section}{CAPÍTULO II. DE LOS DEBERES DEL ESTUDIANTE}{94}{section*.223}%
+\contentsline {subsection}{Artículo 211. Deberes}{94}{subsection*.224}%
+\contentsline {subsection}{Artículo 212. Estudiantes: Escenarios de los deberes}{95}{subsection*.225}%
+\contentsline {subsection}{Artículo 213. Estudiantes: Relaciones positivas}{96}{subsection*.226}%
+\contentsline {subsection}{Artículo 214. Estudiantes: Responsable de imagen, prestigio y reputación del ISTAT}{96}{subsection*.227}%
+\contentsline {subsection}{Artículo 215. Estudiantes: Uso autorizado de signos distintivos del ISTAT}{97}{subsection*.228}%
+\contentsline {subsection}{Artículo 216. Estudiantes: Obligatoriedad de participación y asistencia en actividades}{97}{subsection*.229}%
+\contentsline {subsection}{Artículo 217. Estudiantes: Aceptación de la naturaleza y carácter del ISTAT}{97}{subsection*.230}%
+\contentsline {section}{CAPÍTULO III. DE LOS DERECHOS}{98}{section*.231}%
+\contentsline {subsection}{Artículo 218. Estudiantes: Ejercicio}{98}{subsection*.232}%
+\contentsline {subsection}{Artículo 219. Derechos}{98}{subsection*.233}%
+\contentsline {subsection}{Artículo 220. Estudiantes: Existencia de limitaciones y restricciones}{99}{subsection*.234}%
+\contentsline {subsection}{Artículo 221. Estudiantes: Evaluación del docente}{99}{subsection*.235}%
+\contentsline {subsection}{Artículo 222. Estudiantes: Distinciones y reconocimientos}{100}{subsection*.236}%
+\contentsline {subsection}{Artículo 223. Estudiantes: Ser escuchado}{101}{subsection*.237}%
+\contentsline {section}{CAPÍTULO IV. DE LAS SANCIONES}{102}{section*.238}%
+\contentsline {section}{CAPÍTULO V. DE LA CONVALIDACIÓN}{103}{section*.239}%
+\contentsline {subsection}{Artículo 224. Convalidación}{103}{subsection*.240}%
+\contentsline {subsection}{Artículo 225. Proceso de convalidación}{104}{subsection*.241}%
+\contentsline {section}{CAPÍTULO VI. DE LOS TRASLADOS}{105}{section*.242}%
+\contentsline {part}{IX\hspace {1em}TÍTULO I. DE LOS DOCENTES}{105}{part.9}%
+\contentsline {section}{CAPÍTULO I. DE LA SELECCIÓN Y CONCURSO DOCENTE}{105}{section*.243}%
+\contentsline {subsection}{Artículo 227. Docencia: Selección, concurso y régimen}{106}{subsection*.244}%
+\contentsline {subsection}{Artículo 228. Docencia: Modalidades de selección, concurso y régimen aplicable}{106}{subsection*.245}%
+\contentsline {subsection}{Artículo 229. Docencia: Operadores de la selección y concurso}{106}{subsection*.246}%
+\contentsline {section}{CAPÍTULO II. DEL RÉGIMEN Y FUNCIONES DOCENTES }{106}{section*.247}%
+\contentsline {subsection}{Artículo 230. Docentes: Funciones}{107}{subsection*.248}%
+\contentsline {subsection}{Artículo 231. Docentes: Régimen laboral de las funciones}{107}{subsection*.249}%
+\contentsline {subsection}{Artículo 232. Régimen de dedicación de los docentes}{107}{subsection*.250}%
+\contentsline {subsection}{Artículo 233. Docentes: Principios de las funciones}{107}{subsection*.251}%
+\contentsline {subsection}{Artículo 234. Docentes: Requisitos para el ejercicio}{108}{subsection*.252}%
+\contentsline {subsection}{Artículo 235. Docentes Contratados: Tipos}{108}{subsection*.253}%
+\contentsline {section}{CAPÍTULO III. DE LOS DEBERES Y DERECHOS DE LOS DOCENTES}{109}{section*.254}%
+\contentsline {subsection}{Artículo 236. Docentes: Deberes misionales}{109}{subsection*.255}%
+\contentsline {subsection}{Artículo 237. Docentes: Deberes normativos}{110}{subsection*.256}%
+\contentsline {subsection}{Artículo 238. Docentes: Deberes de la autonomía académica}{111}{subsection*.257}%
+\contentsline {subsection}{Artículo 239. Docentes: Deberes de la excelencia académica}{112}{subsection*.258}%
+\contentsline {subsection}{Artículo 240. Docentes: Deberes en la gestión}{114}{subsection*.259}%
+\contentsline {subsection}{Artículo 241. Docentes: Deberes en la misión, extensión cultural y proyección social}{114}{subsection*.260}%
+\contentsline {subsection}{Artículo 242. Docentes: Deberes en la capacitación y perfeccionamiento}{115}{subsection*.261}%
+\contentsline {subsection}{Artículo 243. Docentes: Deberes en su conducta}{116}{subsection*.262}%
+\contentsline {subsection}{Artículo 244. Docentes: Deberes en el desempeño docente}{117}{subsection*.263}%
+\contentsline {subsection}{Artículo 245. Docentes: Derechos}{118}{subsection*.264}%
+\contentsline {subsection}{Artículo 246. Docentes: Derecho a asociarse}{119}{subsection*.265}%
+\contentsline {subsection}{Artículo 247. Docentes: Derecho a reconocimientos e incentivos}{119}{subsection*.266}%
+\contentsline {subsection}{Artículo 248. Docentes: Derecho a ser escuchado}{120}{subsection*.267}%
+\contentsline {subsection}{Artículo 249. Docentes: Derecho a presentar informes, asistencia a reuniones y otros}{121}{subsection*.268}%
+\contentsline {section}{CAPÍTULO IV. DE LAS SANCIONES E INFRACCIONES}{122}{section*.269}%
+\contentsline {subsection}{Artículo 250. Sanciones}{122}{subsection*.270}%
+\contentsline {subsection}{Artículo 251. Aplicación de sanciones}{122}{subsection*.271}%
+\contentsline {subsection}{Artículo 252. Causas de suspensión y extinción de contrato trabajo}{122}{subsection*.272}%
+\contentsline {subsection}{Artículo 253. Calificación y gravedad de la falta}{123}{subsection*.273}%
+\contentsline {subsection}{Artículo 254. Medidas preventivas}{123}{subsection*.274}%
+\contentsline {part}{X\hspace {1em}TÍTULO I. DEL RÉGIMEN ECONÓMICO }{123}{part.10}%
+\contentsline {subsection}{Artículo 256. Régimen económico ISTAT}{123}{subsection*.275}%
+\contentsline {subsection}{Artículo 257. Régimen económico ISTAT: Sin fines de lucro}{123}{subsection*.276}%
+\contentsline {subsection}{Artículo 258. Actividad sin fines de lucro}{124}{subsection*.277}%
+\contentsline {section}{CAPÍTULO I. DE LOS RECURSOS FINANCIEROS}{125}{section*.278}%
+\contentsline {subsection}{Artículo 259. Recursos financieros}{125}{subsection*.279}%
+\contentsline {section}{CAPÍTULO II. DE LOS BIENES Y BENEFICIOS }{126}{section*.280}%
+\contentsline {subsection}{Artículo 260. Uso de bienes y recursos: Parámetros}{126}{subsection*.281}%
+\contentsline {subsection}{Artículo 261. Uso de bienes y recursos: Prohibiciones}{129}{subsection*.282}%
+\contentsline {subsection}{Artículo 262. Finalidad de la infraestructura}{130}{subsection*.283}%
+\contentsline {subsection}{Artículo 263. Restricciones y limitaciones de uso de infraestructura}{130}{subsection*.284}%
+\contentsline {subsection}{Artículo 264. Operador del uso y acceso a la infraestructura}{131}{subsection*.285}%
+\contentsline {subsection}{Artículo 265. Usos inherentes y colaterales de ambientes}{131}{subsection*.286}%
+\contentsline {subsection}{Artículo 266. Bienes y recursos: Transferir o grabar}{132}{subsection*.287}%
+\contentsline {subsection}{Artículo 267. Bienes y recursos del ISTAT: Áreas de Inversión}{132}{subsection*.288}%
+\contentsline {subsection}{Artículo 268. Resultado del ejercicio económico: Excedentes}{133}{subsection*.289}%
+\contentsline {subsection}{Artículo 269. Resultado del ejercicio económico: Socialización}{133}{subsection*.290}%
+\contentsline {subsection}{Artículo 270. Resultado del ejercicio económico: Reinversión de excedentes}{133}{subsection*.291}%
+\contentsline {subsection}{Artículo 271. Resultado del ejercicio económico: Plan de reinversión}{133}{subsection*.292}%
+\contentsline {subsection}{Artículo 272. Plan de reinversión: Operador}{134}{subsection*.293}%
+\contentsline {subsection}{Artículo 273. Plan de reinversión: Obligaciones en la ejecución}{134}{subsection*.294}%
+\contentsline {subsection}{Artículo 274. Texto Único de Procedimientos Administrativos (TUPA)}{136}{subsection*.295}%
+\contentsline {section}{Anexos}{136}{section*.296}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.11)  16 MAY 2022 19:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.11)  17 MAY 2022 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,16 +767,6 @@ LaTeX Warning: Unused global option(s):
 (main_pei.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
-
-
-LaTeX Warning: Label `fig:mesh1' multiply defined.
-
-
-LaTeX Warning: Label `fig:mesh1' multiply defined.
-
-
-LaTeX Warning: Label `fig:mesh1' multiply defined.
-
 )
 \openout1 = `main_pei.aux'.
 
@@ -890,7 +880,7 @@ LaTeX Info: Redefining \nameref on input line 240.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<imagenes/ISTAT-Portada.png, id=211, 237.0456pt x 227.8914pt>
+<imagenes/ISTAT-Portada.png, id=175, 237.0456pt x 227.8914pt>
 File: imagenes/ISTAT-Portada.png Graphic file (type png)
 <use imagenes/ISTAT-Portada.png>
 Package pdftex.def Info: imagenes/ISTAT-Portada.png  used on input line 254.
@@ -931,7 +921,7 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 onverted-to.pdf imagenes/Logo2.eps>
 (epstopdf)             \includegraphics on input line 344.
 Package epstopdf Info: Output file is already uptodate.
-<imagenes/Logo2-eps-converted-to.pdf, id=221, 707.64375pt x 274.02374pt>
+<imagenes/Logo2-eps-converted-to.pdf, id=185, 707.64375pt x 274.02374pt>
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
@@ -996,12 +986,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 59.
+(epstopdf)             \includegraphics on input line 58.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 59.
+e 58.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1025,12 +1015,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 83.
+(epstopdf)             \includegraphics on input line 82.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 83.
+e 82.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1047,7 +1037,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 [4]
 Overfull \hbox (10.58887pt too wide) in paragraph at lines 100--100
- [][] []\OT1/phv/m/n/12 Art[]^^Pcu-lo 84. Pro-gra-ma de for-ma-ci[]on con-ti-nu
+ [][] []\OT1/phv/m/n/12 Art[]^^Pcu-lo 87. Pro-gra-ma de for-ma-ci[]on con-ti-nu
 a: Ope-ra-dor de la ges-ti[]on acad[]emi- 
  []
 
@@ -1139,7 +1129,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 [7]
 Overfull \hbox (22.313pt too wide) in paragraph at lines 182--182
- [] []\OT1/phv/b/n/12 CAP[]ITU-LO XII. DE LAS EX-PE-RIEN-CIAS FOR-MA-TI-VAS EN 
+ [] []\OT1/phv/b/n/12 CAP[]ITU-LO VII. DE LAS EX-PE-RIEN-CIAS FOR-MA-TI-VAS EN 
 SI-TUA-CIO-NES REALES 
  []
 
@@ -1173,7 +1163,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 [8]
 Overfull \hbox (14.51079pt too wide) in paragraph at lines 208--208
- [][] []\OT1/phv/m/n/12 Art[]^^Pcu-lo 180. Com-pe-ten-cias de Ex-pe-rien-cias F
+ [][] []\OT1/phv/m/n/12 Art[]^^Pcu-lo 183. Com-pe-ten-cias de Ex-pe-rien-cias F
 or-ma-ti-vas en Si-tua-cio-nes Reales 
  []
 
@@ -1206,58 +1196,23 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [9]
-Overfull \hbox (1.41573pt too wide) detected at line 237
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 238
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 239
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 241
- []\OT1/phv/m/n/12 101
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 242
- []\OT1/phv/m/n/12 101
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 243
- []\OT1/phv/m/n/12 102
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 244
- []\OT1/phv/m/n/12 102
- []
-
-
 Overfull \hbox (1.41573pt too wide) detected at line 245
- []\OT1/phv/m/n/12 103
+ []\OT1/phv/m/n/12 100
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 246
- []\OT1/phv/m/n/12 104
+ []\OT1/phv/m/n/12 101
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 249
- []\OT1/phv/m/n/12 106
+ []\OT1/phv/m/n/12 103
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 250
- []\OT1/phv/m/n/12 107
+ []\OT1/phv/m/n/12 104
  []
 
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -1290,122 +1245,122 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 [10]
 Overfull \hbox (1.41573pt too wide) detected at line 254
- []\OT1/phv/m/n/12 109
+ []\OT1/phv/m/n/12 106
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 255
- []\OT1/phv/m/n/12 109
+ []\OT1/phv/m/n/12 106
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 256
- []\OT1/phv/m/n/12 109
+ []\OT1/phv/m/n/12 106
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 258
- []\OT1/phv/m/n/12 110
+ []\OT1/phv/m/n/12 107
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 259
- []\OT1/phv/m/n/12 110
+ []\OT1/phv/m/n/12 107
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 260
- []\OT1/phv/m/n/12 110
+ []\OT1/phv/m/n/12 107
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 261
- []\OT1/phv/m/n/12 110
+ []\OT1/phv/m/n/12 107
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 262
- []\OT1/phv/m/n/12 111
+ []\OT1/phv/m/n/12 108
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 263
- []\OT1/phv/m/n/12 111
+ []\OT1/phv/m/n/12 108
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 265
- []\OT1/phv/m/n/12 112
+ []\OT1/phv/m/n/12 109
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 266
- []\OT1/phv/m/n/12 113
+ []\OT1/phv/m/n/12 110
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 267
- []\OT1/phv/m/n/12 114
+ []\OT1/phv/m/n/12 111
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 268
- []\OT1/phv/m/n/12 115
+ []\OT1/phv/m/n/12 112
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 269
- []\OT1/phv/m/n/12 117
+ []\OT1/phv/m/n/12 114
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 270
- []\OT1/phv/m/n/12 117
+ []\OT1/phv/m/n/12 114
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 271
- []\OT1/phv/m/n/12 118
+ []\OT1/phv/m/n/12 115
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 272
- []\OT1/phv/m/n/12 119
+ []\OT1/phv/m/n/12 116
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 273
- []\OT1/phv/m/n/12 120
+ []\OT1/phv/m/n/12 117
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 274
- []\OT1/phv/m/n/12 121
+ []\OT1/phv/m/n/12 118
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 275
- []\OT1/phv/m/n/12 122
+ []\OT1/phv/m/n/12 119
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 276
- []\OT1/phv/m/n/12 122
+ []\OT1/phv/m/n/12 119
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 277
- []\OT1/phv/m/n/12 123
+ []\OT1/phv/m/n/12 120
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 278
- []\OT1/phv/m/n/12 124
+ []\OT1/phv/m/n/12 121
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 280
- []\OT1/phv/m/n/12 125
+ []\OT1/phv/m/n/12 122
  []
 
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -1438,149 +1393,128 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 [11]
 Overfull \hbox (1.41573pt too wide) detected at line 281
- []\OT1/phv/m/n/12 125
+ []\OT1/phv/m/n/12 122
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 282
- []\OT1/phv/m/n/12 126
+ []\OT1/phv/m/n/12 122
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 283
- []\OT1/phv/m/n/12 126
+ []\OT1/phv/m/n/12 123
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 284
- []\OT1/phv/m/n/12 126
+ []\OT1/phv/m/n/12 123
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 286
- []\OT1/phv/m/n/12 126
+ []\OT1/phv/m/n/12 123
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 287
- []\OT1/phv/m/n/12 127
+ []\OT1/phv/m/n/12 123
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 288
- []\OT1/phv/m/n/12 127
+ []\OT1/phv/m/n/12 124
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 290
- []\OT1/phv/m/n/12 128
+ []\OT1/phv/m/n/12 125
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 292
- []\OT1/phv/m/n/12 129
+ []\OT1/phv/m/n/12 126
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 293
- []\OT1/phv/m/n/12 132
+ []\OT1/phv/m/n/12 129
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 294
- []\OT1/phv/m/n/12 133
+ []\OT1/phv/m/n/12 130
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 295
- []\OT1/phv/m/n/12 133
+ []\OT1/phv/m/n/12 130
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 296
- []\OT1/phv/m/n/12 134
+ []\OT1/phv/m/n/12 131
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 297
- []\OT1/phv/m/n/12 134
+ []\OT1/phv/m/n/12 131
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 298
- []\OT1/phv/m/n/12 135
+ []\OT1/phv/m/n/12 132
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 299
- []\OT1/phv/m/n/12 135
+ []\OT1/phv/m/n/12 132
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 300
- []\OT1/phv/m/n/12 136
+ []\OT1/phv/m/n/12 133
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 301
- []\OT1/phv/m/n/12 136
+ []\OT1/phv/m/n/12 133
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 302
- []\OT1/phv/m/n/12 136
+ []\OT1/phv/m/n/12 133
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 303
- []\OT1/phv/m/n/12 136
+ []\OT1/phv/m/n/12 133
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 304
- []\OT1/phv/m/n/12 137
+ []\OT1/phv/m/n/12 134
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 305
- []\OT1/phv/m/n/12 137
+ []\OT1/phv/m/n/12 134
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 306
- []\OT1/phv/m/n/12 139
+ []\OT1/phv/m/n/12 136
  []
 
+)
+\tf@toc=\write5
+\openout5 = `main_pei.toc'.
 
-Overfull \hbox (1.41573pt too wide) detected at line 307
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 308
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 309
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 310
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 311
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 312
- []\OT1/phv/m/n/12 139
- []
-
+ (informacion.tex
+\c@ns=\count386
+\c@re=\count387
+\c@su=\count388
+\c@par=\count389
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -1589,12 +1523,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 24.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 313.
+e 24.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1610,150 +1544,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [12]
-Overfull \hbox (1.41573pt too wide) detected at line 313
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 314
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 315
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 316
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 317
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 318
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 319
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 320
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 321
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 322
- []\OT1/phv/m/n/12 139
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 323
- []\OT1/phv/m/n/12 140
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 324
- []\OT1/phv/m/n/12 140
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 327
- []\OT1/phv/m/n/12 142
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 328
- []\OT1/phv/m/n/12 143
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 329
- []\OT1/phv/m/n/12 144
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 330
- []\OT1/phv/m/n/12 144
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 331
- []\OT1/phv/m/n/12 144
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 332
- []\OT1/phv/m/n/12 145
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 334
- []\OT1/phv/m/n/12 146
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 335
- []\OT1/phv/m/n/12 147
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 336
- []\OT1/phv/m/n/12 148
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 337
- []\OT1/phv/m/n/12 148
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 339
- []\OT1/phv/m/n/12 149
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 340
- []\OT1/phv/m/n/12 149
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 341
- []\OT1/phv/m/n/12 150
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 342
- []\OT1/phv/m/n/12 151
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 343
- []\OT1/phv/m/n/12 151
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 344
- []\OT1/phv/m/n/12 152
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 345
- []\OT1/phv/m/n/12 152
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -1762,12 +1552,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 346.
+(epstopdf)             \includegraphics on input line 54.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 346.
+e 54.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1783,140 +1573,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [13]
-Overfull \hbox (1.41573pt too wide) detected at line 346
- []\OT1/phv/m/n/12 153
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 347
- []\OT1/phv/m/n/12 154
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 349
- []\OT1/phv/m/n/12 154
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 350
- []\OT1/phv/m/n/12 154
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 351
- []\OT1/phv/m/n/12 155
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 352
- []\OT1/phv/m/n/12 156
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 353
- []\OT1/phv/m/n/12 156
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 354
- []\OT1/phv/m/n/12 157
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 355
- []\OT1/phv/m/n/12 157
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 356
- []\OT1/phv/m/n/12 159
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 357
- []\OT1/phv/m/n/12 160
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 358
- []\OT1/phv/m/n/12 160
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 359
- []\OT1/phv/m/n/12 160
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 360
- []\OT1/phv/m/n/12 161
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 361
- []\OT1/phv/m/n/12 161
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 362
- []\OT1/phv/m/n/12 161
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 363
- []\OT1/phv/m/n/12 162
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 364
- []\OT1/phv/m/n/12 163
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 365
- []\OT1/phv/m/n/12 163
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 366
- []\OT1/phv/m/n/12 164
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 367
- []\OT1/phv/m/n/12 164
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 368
- []\OT1/phv/m/n/12 165
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 369
- []\OT1/phv/m/n/12 165
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 370
- []\OT1/phv/m/n/12 166
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 371
- []\OT1/phv/m/n/12 168
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 372
- []\OT1/phv/m/n/12 168
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 373
- []\OT1/phv/m/n/12 170
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -1925,12 +1581,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 378.
+(epstopdf)             \includegraphics on input line 77.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 378.
+e 77.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1945,14 +1601,12 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
-[14])
-\tf@toc=\write5
-\openout5 = `main_pei.toc'.
+[14]
+Overfull \hbox (5.34789pt too wide) in paragraph at lines 87--88
+[]\OT1/phv/m/n/12 Resoluci[]on de Se-cre-tar[]^^Pa Ge-ne-ral N\TS1/phv/m/n/12 º
+ \OT1/phv/m/n/12 178-2018-MINEDU Li-nea-mien-tos Acad[]emi-
+ []
 
- (informacion.tex
-\c@ns=\count386
-\c@re=\count387
-\c@su=\count388
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -1961,12 +1615,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 20.
+(epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 20.
+e 96.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -1990,12 +1644,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 49.
+(epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 49.
+e 109.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2019,12 +1673,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 72.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 72.
+e 132.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2040,11 +1694,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [17]
-Overfull \hbox (5.34789pt too wide) in paragraph at lines 82--83
-[]\OT1/phv/m/n/12 Resoluci[]on de Se-cre-tar[]^^Pa Ge-ne-ral N\TS1/phv/m/n/12 º
- \OT1/phv/m/n/12 178-2018-MINEDU Li-nea-mien-tos Acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2053,12 +1702,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 91.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 91.
+e 152.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2082,12 +1731,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 104.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 104.
+e 164.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2111,12 +1760,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 127.
+(epstopdf)             \includegraphics on input line 182.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 127.
+e 182.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2140,12 +1789,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 147.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 147.
+e 191.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2169,12 +1818,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 159.
+(epstopdf)             \includegraphics on input line 203.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 159.
+e 203.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2198,12 +1847,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 177.
+(epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 177.
+e 222.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2219,6 +1868,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [23]
+Overfull \hbox (6.77507pt too wide) in paragraph at lines 241--242
+[]\OT1/phv/m/n/12 Los pro-gra-mas de es-tu-dio y dem[]as uni-da-des ad-mi-nis-t
+ra-ti-vas ge-ne-ra-do-ras de acuer-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2227,12 +1881,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 245.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 186.
+e 245.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2256,12 +1910,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 198.
+e 258.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2285,12 +1939,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 217.
+(epstopdf)             \includegraphics on input line 275.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 217.
+e 275.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2306,11 +1960,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [26]
-Overfull \hbox (6.77507pt too wide) in paragraph at lines 235--236
-[]\OT1/phv/m/n/12 Los pro-gra-mas de es-tu-dio y dem[]as uni-da-des ad-mi-nis-t
-ra-ti-vas ge-ne-ra-do-ras de acuer-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2319,12 +1968,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 239.
+(epstopdf)             \includegraphics on input line 298.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 239.
+e 298.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2348,12 +1997,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 252.
+(epstopdf)             \includegraphics on input line 326.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 252.
+e 326.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2369,6 +2018,24 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [28]
+Package epstopdf Info: Source file: <imagenes/organigrama-istat.eps>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 1692166 bytes
+(epstopdf)             Output file: <imagenes/organigrama-istat-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 225077 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/organigrama
+-istat-eps-converted-to.pdf imagenes/organigrama-istat.eps>
+(epstopdf)             \includegraphics on input line 336.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/organigrama-istat-eps-converted-to.pdf, id=1009, 554.07pt x 353.32pt>
+
+File: imagenes/organigrama-istat-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/organigrama-istat-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/organigrama-istat-eps-converted-to.pdf  used 
+on input line 336.
+(pdftex.def)             Requested size: 387.84636pt x 247.32231pt.
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2377,12 +2044,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 268.
+(epstopdf)             \includegraphics on input line 352.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 268.
+e 352.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2397,7 +2064,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
-[29]
+[29 <./imagenes/organigrama-istat-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2406,12 +2073,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 290.
+(epstopdf)             \includegraphics on input line 375.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 290.
+e 375.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2427,6 +2094,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [30]
+Overfull \hbox (18.71883pt too wide) in paragraph at lines 385--386
+[]\OT1/phv/m/n/12 Organizar y di-ri-gir los di-ver-sos pla-nes, pro-gra-mas, pr
+o-yec-tos y ac-ti-vi-da-des acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2435,12 +2107,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 318.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 318.
+e 388.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2456,24 +2128,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [31]
-Package epstopdf Info: Source file: <imagenes/organigrama-istat.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 1692166 bytes
-(epstopdf)             Output file: <imagenes/organigrama-istat-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 225077 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/organigrama
--istat-eps-converted-to.pdf imagenes/organigrama-istat.eps>
-(epstopdf)             \includegraphics on input line 328.
-Package epstopdf Info: Output file is already uptodate.
-<imagenes/organigrama-istat-eps-converted-to.pdf, id=1191, 554.07pt x 353.32pt>
-
-File: imagenes/organigrama-istat-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/organigrama-istat-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/organigrama-istat-eps-converted-to.pdf  used 
-on input line 328.
-(pdftex.def)             Requested size: 387.84636pt x 247.32231pt.
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2482,12 +2136,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 344.
+(epstopdf)             \includegraphics on input line 408.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 344.
+e 408.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2502,7 +2156,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
-[32 <./imagenes/organigrama-istat-eps-converted-to.pdf>]
+[32]
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2511,12 +2165,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 424.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 367.
+e 424.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2532,11 +2186,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [33]
-Overfull \hbox (18.71883pt too wide) in paragraph at lines 377--378
-[]\OT1/phv/m/n/12 Organizar y di-ri-gir los di-ver-sos pla-nes, pro-gra-mas, pr
-o-yec-tos y ac-ti-vi-da-des acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2545,12 +2194,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 380.
+(epstopdf)             \includegraphics on input line 438.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 380.
+e 438.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2574,12 +2223,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 400.
+(epstopdf)             \includegraphics on input line 466.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 400.
+e 466.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2603,12 +2252,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 416.
+(epstopdf)             \includegraphics on input line 483.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 416.
+e 483.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2624,6 +2273,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [36]
+Overfull \hbox (3.72867pt too wide) in paragraph at lines 493--494
+[]\OT1/phv/m/n/12 La car-ta de re-nun-cia pue-de ser pre-sen-ta-da a trav[]es d
+e me-dios f[]^^Psi-cos o electr[]oni-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2632,12 +2286,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 430.
+(epstopdf)             \includegraphics on input line 500.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 430.
+e 500.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2653,6 +2307,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [37]
+Overfull \hbox (33.3935pt too wide) in paragraph at lines 510--510
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 66. Atri-bu-cio-nes del Di-rec-tor acad[]emi-
+co en la ges-ti[]on acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2661,12 +2320,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 458.
+(epstopdf)             \includegraphics on input line 520.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 458.
+e 520.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2682,6 +2341,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [38]
+Overfull \hbox (1.40329pt too wide) in paragraph at lines 524--525
+[]\OT1/phv/m/n/12 Formular, pre-sen-tar, sus-ten-tar, im-ple-men-tar y eva-luar
+ los cro-no-gra-mas acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2690,12 +2354,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 475.
+(epstopdf)             \includegraphics on input line 533.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 475.
+e 533.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2711,9 +2375,9 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [39]
-Overfull \hbox (3.72867pt too wide) in paragraph at lines 485--486
-[]\OT1/phv/m/n/12 La car-ta de re-nun-cia pue-de ser pre-sen-ta-da a trav[]es d
-e me-dios f[]^^Psi-cos o electr[]oni-
+Overfull \hbox (5.53247pt too wide) in paragraph at lines 537--537
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 67. Di-rec-tor acad[]emi-co: Atri-bu-cio-nes 
+del di-rec-tor acad[]emi-
  []
 
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -2724,12 +2388,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 492.
+(epstopdf)             \includegraphics on input line 549.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 492.
+e 549.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2745,11 +2409,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [40]
-Overfull \hbox (33.3935pt too wide) in paragraph at lines 502--502
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 60. Atri-bu-cio-nes del Di-rec-tor acad[]emi-
-co en la ges-ti[]on acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2758,12 +2417,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 512.
+(epstopdf)             \includegraphics on input line 566.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 512.
+e 566.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2779,9 +2438,9 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [41]
-Overfull \hbox (1.40329pt too wide) in paragraph at lines 516--517
-[]\OT1/phv/m/n/12 Formular, pre-sen-tar, sus-ten-tar, im-ple-men-tar y eva-luar
- los cro-no-gra-mas acad[]emi-
+Overfull \hbox (5.86414pt too wide) in paragraph at lines 577--577
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 72. Di-rec-tor fi-nan-cie-ro: Atri-bu-cio-nes
+ en el []ambi-to econ[]omi-
  []
 
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -2792,12 +2451,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 525.
+(epstopdf)             \includegraphics on input line 586.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 525.
+e 586.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2813,11 +2472,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [42]
-Overfull \hbox (5.53247pt too wide) in paragraph at lines 529--529
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 61. Di-rec-tor acad[]emi-co: Atri-bu-cio-nes 
-del di-rec-tor acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2826,12 +2480,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 541.
+(epstopdf)             \includegraphics on input line 602.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 541.
+e 602.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2847,6 +2501,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [43]
+Overfull \hbox (12.88484pt too wide) in paragraph at lines 618--619
+[]\OT1/phv/m/n/12 Coordinar la pre-pa-ra-ci[]on de los pre-su-pues-tos ope-ra-t
+i-vos de las uni-da-des acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2855,12 +2514,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 558.
+(epstopdf)             \includegraphics on input line 620.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 558.
+e 620.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2876,11 +2535,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [44]
-Overfull \hbox (5.86414pt too wide) in paragraph at lines 569--569
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 66. Di-rec-tor fi-nan-cie-ro: Atri-bu-cio-nes
- en el []ambi-to econ[]omi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2889,12 +2543,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 578.
+(epstopdf)             \includegraphics on input line 635.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 578.
+e 635.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2910,6 +2564,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [45]
+Overfull \hbox (21.29686pt too wide) in paragraph at lines 643--644
+[]\OT1/phv/m/n/12 Favorecer la im-ple-men-ta-ci[]on y otor-ga-mien-to de in-cen
+-ti-vos econ[]omi-co o no econ[]omi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2918,12 +2577,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 594.
+(epstopdf)             \includegraphics on input line 647.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 594.
+e 647.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2939,11 +2598,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [46]
-Overfull \hbox (12.88484pt too wide) in paragraph at lines 610--611
-[]\OT1/phv/m/n/12 Coordinar la pre-pa-ra-ci[]on de los pre-su-pues-tos ope-ra-t
-i-vos de las uni-da-des acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -2952,12 +2606,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 612.
+(epstopdf)             \includegraphics on input line 666.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 612.
+e 666.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -2981,12 +2635,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 627.
+(epstopdf)             \includegraphics on input line 683.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 627.
+e 683.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3002,11 +2656,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [48]
-Overfull \hbox (21.29686pt too wide) in paragraph at lines 635--636
-[]\OT1/phv/m/n/12 Favorecer la im-ple-men-ta-ci[]on y otor-ga-mien-to de in-cen
--ti-vos econ[]omi-co o no econ[]omi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3015,12 +2664,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 639.
+(epstopdf)             \includegraphics on input line 695.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 639.
+e 695.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3044,12 +2693,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 658.
+(epstopdf)             \includegraphics on input line 710.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 658.
+e 710.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3073,12 +2722,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 675.
+(epstopdf)             \includegraphics on input line 727.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 675.
+e 727.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3094,6 +2743,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [51]
+Overfull \hbox (9.13007pt too wide) in paragraph at lines 735--736
+[]\OT1/phv/m/n/12 Cuidar en el de-sa-rro-llo es-pi-ri-tual el cum-pli-mien-to, 
+ob-ser-van-cia, del mar-co axiol[]ogi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3102,12 +2756,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 687.
+(epstopdf)             \includegraphics on input line 737.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 687.
+e 737.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3131,12 +2785,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 702.
+(epstopdf)             \includegraphics on input line 753.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 702.
+e 753.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3160,12 +2814,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 719.
+(epstopdf)             \includegraphics on input line 765.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 719.
+e 765.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3181,9 +2835,9 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [54]
-Overfull \hbox (9.13007pt too wide) in paragraph at lines 727--728
-[]\OT1/phv/m/n/12 Cuidar en el de-sa-rro-llo es-pi-ri-tual el cum-pli-mien-to, 
-ob-ser-van-cia, del mar-co axiol[]ogi-
+Overfull \hbox (2.40738pt too wide) in paragraph at lines 773--775
+[]\OT1/phv/m/n/12 El pro-gra-ma de es-tu-dio por su na-tu-ra-le-za y car[]acter
+, se es-truc-tu-ra co-mo un []organo: 
  []
 
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -3194,12 +2848,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 729.
+(epstopdf)             \includegraphics on input line 788.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 729.
+e 788.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3223,12 +2877,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 745.
+(epstopdf)             \includegraphics on input line 808.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 745.
+e 808.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3244,6 +2898,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [56]
+Overfull \hbox (36.39244pt too wide) in paragraph at lines 818--819
+\OT1/phv/m/n/12 uni-dad acad[]emico-administrativa es-pe-cia-li-za-da en la ges
+-ti[]on acad[]emico-administrativa
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3252,12 +2911,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 757.
+(epstopdf)             \includegraphics on input line 825.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 757.
+e 825.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3273,11 +2932,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [57]
-Overfull \hbox (2.40738pt too wide) in paragraph at lines 764--766
-[]\OT1/phv/m/n/12 El pro-gra-ma de es-tu-dio por su na-tu-ra-le-za y car[]acter
-, se es-truc-tu-ra co-mo un []organo: 
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3286,12 +2940,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 779.
+(epstopdf)             \includegraphics on input line 841.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 779.
+e 841.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3315,12 +2969,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 799.
+(epstopdf)             \includegraphics on input line 865.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 799.
+e 865.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3336,11 +2990,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [59]
-Overfull \hbox (36.39244pt too wide) in paragraph at lines 809--810
-\OT1/phv/m/n/12 uni-dad acad[]emico-administrativa es-pe-cia-li-za-da en la ges
--ti[]on acad[]emico-administrativa
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3349,12 +2998,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 816.
+(epstopdf)             \includegraphics on input line 878.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 816.
+e 878.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3378,12 +3027,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 832.
+(epstopdf)             \includegraphics on input line 890.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 832.
+e 890.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3407,12 +3056,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 856.
+(epstopdf)             \includegraphics on input line 902.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 856.
+e 902.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3428,6 +3077,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [62]
+Overfull \hbox (4.02975pt too wide) in paragraph at lines 902--903
+[]\OT1/phv/m/n/12 Representar al pro-gra-ma de es-tu-dios acad[]emi-ca y ad-mi-
+nis-tra-ti-va-men-te, en even-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3436,12 +3090,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 869.
+(epstopdf)             \includegraphics on input line 920.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 869.
+e 920.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3465,12 +3119,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 881.
+(epstopdf)             \includegraphics on input line 941.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 881.
+e 941.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3494,12 +3148,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 893.
+(epstopdf)             \includegraphics on input line 966.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 893.
+e 966.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3515,11 +3169,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [65]
-Overfull \hbox (4.02975pt too wide) in paragraph at lines 893--894
-[]\OT1/phv/m/n/12 Representar al pro-gra-ma de es-tu-dios acad[]emi-ca y ad-mi-
-nis-tra-ti-va-men-te, en even-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3528,12 +3177,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 910.
+(epstopdf)             \includegraphics on input line 987.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 910.
+e 987.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3557,12 +3206,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 931.
+(epstopdf)             \includegraphics on input line 1011.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 931.
+e 1011.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3578,6 +3227,9 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [67]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1013.
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3586,12 +3238,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 956.
+(epstopdf)             \includegraphics on input line 1025.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 956.
+e 1025.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3615,12 +3267,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 977.
+(epstopdf)             \includegraphics on input line 1044.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 977.
+e 1044.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3636,6 +3288,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [69]
+Overfull \hbox (2.20296pt too wide) in paragraph at lines 1061--1062
+[]\OT1/phv/m/n/12 El Re-gla-men-to de es-tu-dios re-gu-la el de-sa-rro-llo y ev
+a-lua-ci[]on del se-mes-tre acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3644,12 +3301,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1001.
+(epstopdf)             \includegraphics on input line 1063.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1001.
+e 1063.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3665,9 +3322,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [70]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1003.
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3676,12 +3330,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1015.
+(epstopdf)             \includegraphics on input line 1086.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1015.
+e 1086.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3697,6 +3351,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [71]
+Overfull \hbox (22.36621pt too wide) in paragraph at lines 1097--1097
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 133. Sis-te-ma de eva-lua-ci[]on: Ca-li-fi-ca
+-ci[]on o va-lo-ra-ci[]on num[]eri-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3705,12 +3364,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1034.
+(epstopdf)             \includegraphics on input line 1105.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1034.
+e 1105.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3726,11 +3385,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [72]
-Overfull \hbox (2.20296pt too wide) in paragraph at lines 1051--1052
-[]\OT1/phv/m/n/12 El Re-gla-men-to de es-tu-dios re-gu-la el de-sa-rro-llo y ev
-a-lua-ci[]on del se-mes-tre acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3739,12 +3393,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1053.
+(epstopdf)             \includegraphics on input line 1130.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1053.
+e 1130.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3768,12 +3422,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1076.
+(epstopdf)             \includegraphics on input line 1148.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1076.
+e 1148.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3789,11 +3443,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [74]
-Overfull \hbox (22.36621pt too wide) in paragraph at lines 1087--1087
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 125. Sis-te-ma de eva-lua-ci[]on: Ca-li-fi-ca
--ci[]on o va-lo-ra-ci[]on num[]eri-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -3802,12 +3451,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1095.
+(epstopdf)             \includegraphics on input line 1167.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1095.
+e 1167.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3831,12 +3480,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1120.
+(epstopdf)             \includegraphics on input line 1193.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1120.
+e 1193.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3860,12 +3509,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1138.
+(epstopdf)             \includegraphics on input line 1220.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1138.
+e 1220.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3889,12 +3538,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1157.
+(epstopdf)             \includegraphics on input line 1239.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1157.
+e 1239.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3918,12 +3567,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1183.
+(epstopdf)             \includegraphics on input line 1265.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1183.
+e 1265.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3947,12 +3596,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1210.
+(epstopdf)             \includegraphics on input line 1280.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1210.
+e 1280.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -3976,12 +3625,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1229.
+(epstopdf)             \includegraphics on input line 1301.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1229.
+e 1301.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4005,12 +3654,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1255.
+(epstopdf)             \includegraphics on input line 1314.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1255.
+e 1314.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4026,6 +3675,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [82]
+Overfull \hbox (3.22522pt too wide) in paragraph at lines 1333--1334
+[]\OT1/phv/m/n/12 Registro de matr[]^^Pcu-la, a los 30 d[]^^Pas h[]abi-les de h
+a-ber ini-cia-do el pe-rio-do acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4034,12 +3688,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1270.
+(epstopdf)             \includegraphics on input line 1341.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1270.
+e 1341.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4063,12 +3717,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1291.
+(epstopdf)             \includegraphics on input line 1358.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1291.
+e 1358.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4084,6 +3738,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [84]
+Overfull \hbox (1.09929pt too wide) in paragraph at lines 1360--1361
+\OT1/phv/m/n/12 ca. Es-tos da-tos pro-vie-nen del re-gis-tro de eva-lua-ci[]on 
+y asis-ten-cia. Se-cre-tar[]^^Pa Acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4092,12 +3751,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1304.
+(epstopdf)             \includegraphics on input line 1381.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1304.
+e 1381.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4113,11 +3772,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [85]
-Overfull \hbox (3.22522pt too wide) in paragraph at lines 1323--1324
-[]\OT1/phv/m/n/12 Registro de matr[]^^Pcu-la, a los 30 d[]^^Pas h[]abi-les de h
-a-ber ini-cia-do el pe-rio-do acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4126,12 +3780,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1331.
+(epstopdf)             \includegraphics on input line 1404.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1331.
+e 1404.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4155,12 +3809,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1348.
+(epstopdf)             \includegraphics on input line 1429.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1348.
+e 1429.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4176,11 +3830,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [87]
-Overfull \hbox (1.09929pt too wide) in paragraph at lines 1350--1351
-\OT1/phv/m/n/12 ca. Es-tos da-tos pro-vie-nen del re-gis-tro de eva-lua-ci[]on 
-y asis-ten-cia. Se-cre-tar[]^^Pa Acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4189,12 +3838,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1371.
+(epstopdf)             \includegraphics on input line 1447.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1371.
+e 1447.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4210,6 +3859,260 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [88]
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Modalidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Ficha de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 Ins-crip-
+ []
+
+
+Overfull \hbox (0.9218pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Certificado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de es-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 dios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 se-cun-da-
+ []
+
+
+Overfull \hbox (13.12572pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Presentaci[]on
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de DNI y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 da-tos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 sis-te-ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Copia de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 na-ci-mien-
+ []
+
+
+Overfull \hbox (3.11789pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Constancia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de apro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 ba-do en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 examen
+ []
+
+
+Overfull \hbox (3.11789pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Constancia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de es-tu-
+ []
+
+
+Overfull \hbox (3.11789pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Constancia
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de pri-me-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 ros pues-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 tos/tercio
+ []
+
+
+Overfull \hbox (0.9218pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Certificado
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 y/o cons-
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 tan-cia de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 con-duc-ta
+ []
+
+
+Overfull \hbox (0.9218pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Certificado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de es-tu-
+ []
+
+
+Overfull \hbox (3.11789pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Constancia
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de de-por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 tis-ta
+ []
+
+
+Overfull \hbox (0.9218pt too wide) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 Certificado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 CO-NA-DIS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]\OT1/phv/m/n/12 N[]ume-ro,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 fe-cha y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 ho-ra de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 vau-cher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 de pa-go
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 por ins-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Examen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Primeros
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Convenios
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Tercio su-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Deportista
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Traslado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Traslado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Examen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+\OT1/phv/m/n/12 pre-fe-ren-
+ []
+
+
+Overfull \hbox (15.11789pt too wide) in paragraph at lines 1628--1628
+[]|\OT1/phv/m/n/12 Discapacidad| 
+ []
+
+
+Overfull \hbox (44.34721pt too wide) in paragraph at lines 1628--1629
+[][] 
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4218,12 +4121,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1394.
+(epstopdf)             \includegraphics on input line 1637.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1394.
+e 1637.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4247,12 +4150,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1419.
+(epstopdf)             \includegraphics on input line 1647.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1419.
+e 1647.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4276,12 +4179,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1436.
+(epstopdf)             \includegraphics on input line 1669.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1436.
+e 1669.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4297,260 +4200,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [91]
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Modalidad
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Ficha de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 Ins-crip-
- []
-
-
-Overfull \hbox (0.9218pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Certificado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de es-tu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 dios
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 se-cun-da-
- []
-
-
-Overfull \hbox (13.12572pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Presentaci[]on
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de DNI y
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 da-tos de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 sis-te-ma
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Copia de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 na-ci-mien-
- []
-
-
-Overfull \hbox (3.11789pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Constancia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de apro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 ba-do en
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 examen
- []
-
-
-Overfull \hbox (3.11789pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Constancia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de es-tu-
- []
-
-
-Overfull \hbox (3.11789pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Constancia
- []
-
-
-Underfull \hbox (badness 2799) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de pri-me-
- []
-
-
-Underfull \hbox (badness 4132) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 ros pues-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 tos/tercio
- []
-
-
-Overfull \hbox (0.9218pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Certificado
- []
-
-
-Underfull \hbox (badness 7012) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 y/o cons-
- []
-
-
-Underfull \hbox (badness 6995) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 tan-cia de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 con-duc-ta
- []
-
-
-Overfull \hbox (0.9218pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Certificado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de es-tu-
- []
-
-
-Overfull \hbox (3.11789pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Constancia
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de de-por-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 tis-ta
- []
-
-
-Overfull \hbox (0.9218pt too wide) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 Certificado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 CO-NA-DIS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]\OT1/phv/m/n/12 N[]ume-ro,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 fe-cha y
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 ho-ra de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 vau-cher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 de pa-go
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 por ins-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Examen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Primeros
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Convenios
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Tercio su-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Deportista
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Traslado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Traslado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Examen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
-\OT1/phv/m/n/12 pre-fe-ren-
- []
-
-
-Overfull \hbox (15.11789pt too wide) in paragraph at lines 1617--1617
-[]|\OT1/phv/m/n/12 Discapacidad| 
- []
-
-
-Overfull \hbox (44.34721pt too wide) in paragraph at lines 1617--1618
-[][] 
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4559,12 +4208,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1626.
+(epstopdf)             \includegraphics on input line 1683.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1626.
+e 1683.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4588,12 +4237,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1636.
+(epstopdf)             \includegraphics on input line 1709.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1636.
+e 1709.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4617,12 +4266,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1658.
+(epstopdf)             \includegraphics on input line 1736.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1658.
+e 1736.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4646,12 +4295,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1672.
+(epstopdf)             \includegraphics on input line 1752.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1672.
+e 1752.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4667,6 +4316,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [95]
+Overfull \hbox (9.52269pt too wide) in paragraph at lines 1757--1757
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 214. Es-tu-dian-tes: Res-pon-sa-ble de ima-ge
+n, pres-ti-gio y repu-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4675,12 +4329,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1698.
+(epstopdf)             \includegraphics on input line 1772.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1698.
+e 1772.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4696,6 +4350,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [96]
+Overfull \hbox (1.67719pt too wide) in paragraph at lines 1785--1786
+\OT1/phv/m/n/12 ideol[]ogi-ca en sus es-ce-na-rios acad[]emi-cos o del pro-ce-s
+o en-se[]nanza-aprendizaje,
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4704,12 +4363,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1725.
+(epstopdf)             \includegraphics on input line 1786.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1725.
+e 1786.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4733,12 +4392,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1741.
+(epstopdf)             \includegraphics on input line 1805.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1741.
+e 1805.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4754,11 +4413,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [98]
-Overfull \hbox (9.52269pt too wide) in paragraph at lines 1746--1746
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 205. Es-tu-dian-tes: Res-pon-sa-ble de ima-ge
-n, pres-ti-gio y repu-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4767,12 +4421,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1761.
+(epstopdf)             \includegraphics on input line 1823.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1761.
+e 1823.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4788,11 +4442,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [99]
-Overfull \hbox (1.67719pt too wide) in paragraph at lines 1774--1775
-\OT1/phv/m/n/12 ideol[]ogi-ca en sus es-ce-na-rios acad[]emi-cos o del pro-ce-s
-o en-se[]nanza-aprendizaje,
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4801,12 +4450,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1775.
+(epstopdf)             \includegraphics on input line 1840.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1775.
+e 1840.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4822,6 +4471,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [100]
+Overfull \hbox (1.61806pt too wide) in paragraph at lines 1846--1847
+[]\OT1/phv/m/n/12 Representar los idea-les, el mo-de-lo de es-tu-dian-te re-fe-
+ren-te por su res-pe-to, pr[]acti-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4830,12 +4484,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1794.
+(epstopdf)             \includegraphics on input line 1859.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1794.
+e 1859.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4859,12 +4513,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1812.
+(epstopdf)             \includegraphics on input line 1878.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1812.
+e 1878.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4888,12 +4542,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1829.
+(epstopdf)             \includegraphics on input line 1903.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1829.
+e 1903.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4909,11 +4563,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [103]
-Overfull \hbox (1.61806pt too wide) in paragraph at lines 1835--1836
-[]\OT1/phv/m/n/12 Representar los idea-les, el mo-de-lo de es-tu-dian-te re-fe-
-ren-te por su res-pe-to, pr[]acti-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4922,12 +4571,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1848.
+(epstopdf)             \includegraphics on input line 1927.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1848.
+e 1927.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4943,6 +4592,10 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [104]
+Overfull \hbox (2.3251pt too wide) in paragraph at lines 1946--1946
+|\OT1/phv/b/n/17.28 CAP[]ITU-LO I. DE LA SE-LEC-CI[]ON Y CON-CUR-SO DO-CEN-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4951,12 +4604,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1867.
+(epstopdf)             \includegraphics on input line 1952.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1867.
+e 1952.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -4972,6 +4625,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [105]
+Overfull \hbox (3.878pt too wide) in paragraph at lines 1952--1952
+|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 228. Do-cen-cia: Mo-da-li-da-des de se-lec-ci
+[]on, con-cur-so y r[]egi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -4980,12 +4638,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1892.
+(epstopdf)             \includegraphics on input line 1981.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1892.
+e 1981.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5001,6 +4659,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [106]
+Overfull \hbox (9.70407pt too wide) in paragraph at lines 1996--1998
+[]\OT1/phv/m/n/12 El des-em-pe[]no do-cen-te en el IS-TAT tie-ne co-mo mar-co a
+xiol[]ogi-co, fi-los[]ofi-co, acad[]emi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5009,12 +4672,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1916.
+(epstopdf)             \includegraphics on input line 2002.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1916.
+e 2002.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5038,12 +4701,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1940.
+(epstopdf)             \includegraphics on input line 2034.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1940.
+e 2034.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5059,11 +4722,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [108]
-Overfull \hbox (3.878pt too wide) in paragraph at lines 1940--1940
-|\OT1/phv/b/n/14.4 Art^^S^^Pcu-lo 218. Do-cen-cia: Mo-da-li-da-des de se-lec-ci
-[]on, con-cur-so y r[]egi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5072,12 +4730,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1969.
+(epstopdf)             \includegraphics on input line 2053.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1969.
+e 2053.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5093,11 +4751,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [109]
-Overfull \hbox (9.70407pt too wide) in paragraph at lines 1984--1986
-[]\OT1/phv/m/n/12 El des-em-pe[]no do-cen-te en el IS-TAT tie-ne co-mo mar-co a
-xiol[]ogi-co, fi-los[]ofi-co, acad[]emi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5106,12 +4759,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 1990.
+(epstopdf)             \includegraphics on input line 2070.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 1990.
+e 2070.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5135,12 +4788,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2022.
+(epstopdf)             \includegraphics on input line 2088.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2022.
+e 2088.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5164,12 +4817,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2041.
+(epstopdf)             \includegraphics on input line 2106.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2041.
+e 2106.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5193,12 +4846,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2058.
+(epstopdf)             \includegraphics on input line 2126.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2058.
+e 2126.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5222,12 +4875,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2076.
+(epstopdf)             \includegraphics on input line 2143.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2076.
+e 2143.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5243,6 +4896,17 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [114]
+Overfull \hbox (3.46638pt too wide) in paragraph at lines 2150--2151
+[]\OT1/phv/m/n/12 Reporta, in-for-ma, las ac-ti-vi-da-des y ac-cio-nes efec-tua
+-das en el se-mes-tre acad[]emi-
+ []
+
+
+Overfull \hbox (4.48378pt too wide) in paragraph at lines 2155--2157
+[]\OT1/phv/m/n/12 El do-cen-te, adem[]as de los de-be-res so-bre ca-pa-ci-ta-ci
+[]on y per-fec-cio-na-mien-to se[]nala-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5251,12 +4915,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2094.
+(epstopdf)             \includegraphics on input line 2160.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2094.
+e 2160.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5280,12 +4944,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2114.
+(epstopdf)             \includegraphics on input line 2177.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2114.
+e 2177.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5301,6 +4965,11 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [116]
+Overfull \hbox (4.64235pt too wide) in paragraph at lines 2189--2190
+[]\OT1/phv/m/n/12 Conocer y cum-plir el re-gla-men-to in-terno, di-rec-ti-vas u
+ otras, los prin-ci-pios axiol[]ogi-
+ []
+
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5309,12 +4978,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2131.
+(epstopdf)             \includegraphics on input line 2194.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2131.
+e 2194.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5330,17 +4999,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [117]
-Overfull \hbox (3.46638pt too wide) in paragraph at lines 2138--2139
-[]\OT1/phv/m/n/12 Reporta, in-for-ma, las ac-ti-vi-da-des y ac-cio-nes efec-tua
--das en el se-mes-tre acad[]emi-
- []
-
-
-Overfull \hbox (4.48378pt too wide) in paragraph at lines 2143--2145
-[]\OT1/phv/m/n/12 El do-cen-te, adem[]as de los de-be-res so-bre ca-pa-ci-ta-ci
-[]on y per-fec-cio-na-mien-to se[]nala-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5349,12 +5007,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2148.
+(epstopdf)             \includegraphics on input line 2212.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2148.
+e 2212.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5378,12 +5036,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2165.
+(epstopdf)             \includegraphics on input line 2233.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2165.
+e 2233.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5399,11 +5057,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [119]
-Overfull \hbox (4.64235pt too wide) in paragraph at lines 2177--2178
-[]\OT1/phv/m/n/12 Conocer y cum-plir el re-gla-men-to in-terno, di-rec-ti-vas u
- otras, los prin-ci-pios axiol[]ogi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5412,12 +5065,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2182.
+(epstopdf)             \includegraphics on input line 2253.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2182.
+e 2253.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5441,12 +5094,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2200.
+(epstopdf)             \includegraphics on input line 2268.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2200.
+e 2268.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5470,12 +5123,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2221.
+(epstopdf)             \includegraphics on input line 2288.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2221.
+e 2288.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5499,12 +5152,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2241.
+(epstopdf)             \includegraphics on input line 2308.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2241.
+e 2308.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5528,12 +5181,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2256.
+(epstopdf)             \includegraphics on input line 2324.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2256.
+e 2324.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5557,12 +5210,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2276.
+(epstopdf)             \includegraphics on input line 2343.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2276.
+e 2343.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5578,127 +5231,6 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [125]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2290.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2290.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[126]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2310.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2310.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[127]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2328.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2328.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[128]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2366.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2366.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[129]
-Overfull \hbox (9.32245pt too wide) in paragraph at lines 2368--2369
-[]\OT1/phv/m/n/12 Representaci[]on o par-ti-ci-pa-cio-nes en de-le-ga-cio-nes i
-ns-ti-tu-cio-na-les en el []ambi-
- []
-
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
 (epstopdf)                    size: 749270 bytes
@@ -5727,6 +5259,127 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
+[126]
+Overfull \hbox (9.32245pt too wide) in paragraph at lines 2381--2382
+[]\OT1/phv/m/n/12 Representaci[]on o par-ti-ci-pa-cio-nes en de-le-ga-cio-nes i
+ns-ti-tu-cio-na-les en el []ambi-
+ []
+
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
+onverted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 2393.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
+e 2393.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[127]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
+onverted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 2407.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
+e 2407.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[128]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
+onverted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 2423.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
+e 2423.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
+[129]
+Package epstopdf Info: Source file: <imagenes/Logo2.eps>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 749270 bytes
+(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-05-11 12:46:36
+(epstopdf)                    size: 27606 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
+onverted-to.pdf imagenes/Logo2.eps>
+(epstopdf)             \includegraphics on input line 2437.
+Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Logo2-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
+e 2437.
+(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
+
+Overfull \hbox (2.65184pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (34.14322pt): 
+(fancyhdr)                Make it at least 59.79993pt, for example:
+(fancyhdr)                \setlength{\headheight}{59.79993pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
+
 [130]
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    date: 2022-05-11 12:46:36
@@ -5736,12 +5389,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2394.
+(epstopdf)             \includegraphics on input line 2452.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2394.
+e 2452.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5765,12 +5418,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2410.
+(epstopdf)             \includegraphics on input line 2477.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2410.
+e 2477.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5794,12 +5447,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2424.
+(epstopdf)             \includegraphics on input line 2499.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2424.
+e 2499.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5823,12 +5476,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2439.
+(epstopdf)             \includegraphics on input line 2522.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2439.
+e 2522.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5844,94 +5497,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
 [134]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2464.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2464.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[135]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2486.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2486.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[136]
-Package epstopdf Info: Source file: <imagenes/Logo2.eps>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 749270 bytes
-(epstopdf)             Output file: <imagenes/Logo2-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-05-11 12:46:36
-(epstopdf)                    size: 27606 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
-onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2509.
-Package epstopdf Info: Output file is already uptodate.
-File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Logo2-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2509.
-(pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
-
-Overfull \hbox (2.65184pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (34.14322pt): 
-(fancyhdr)                Make it at least 59.79993pt, for example:
-(fancyhdr)                \setlength{\headheight}{59.79993pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
-
-[137]
-Overfull \hbox (0.65921pt too wide) in paragraph at lines 2510--2511
+Overfull \hbox (0.65921pt too wide) in paragraph at lines 2523--2524
 \OT1/phv/m/n/12 gui-mien-to, sus-ten-tar y acre-di-tar las ope-ra-cio-nes edu-c
 a-ti-vas, in-no-va-ci[]on, de bien-
  []
@@ -5944,12 +5510,12 @@ Package epstopdf Info: Source file: <imagenes/Logo2.eps>
 (epstopdf)                    size: 27606 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/Logo2-eps-c
 onverted-to.pdf imagenes/Logo2.eps>
-(epstopdf)             \includegraphics on input line 2523.
+(epstopdf)             \includegraphics on input line 2536.
 Package epstopdf Info: Output file is already uptodate.
 File: imagenes/Logo2-eps-converted-to.pdf Graphic file (type pdf)
 <use imagenes/Logo2-eps-converted-to.pdf>
 Package pdftex.def Info: imagenes/Logo2-eps-converted-to.pdf  used on input lin
-e 2523.
+e 2536.
 (pdftex.def)             Requested size: 70.76851pt x 27.40398pt.
 
 Overfull \hbox (2.65184pt too wide) has occurred while \output is active
@@ -5964,7 +5530,7 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
-[138])
+[135])
 No file main_pei.bbl.
 (anexos.tex)
 Package epstopdf Info: Source file: <imagenes/Logo2.eps>
@@ -5995,330 +5561,39 @@ Package fancyhdr Warning: \headheight is too small (34.14322pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.65671pt}.
 
-[139] (main_pei.aux
+[136] (main_pei.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-
-LaTeX Warning: There were multiply-defined labels.
-
 
 Package rerunfilecheck Warning: File `main_pei.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main_pei.out':
-(rerunfilecheck)             Before: 1E348D785DF266CF4E8223C027FB9FED;13219
-(rerunfilecheck)             After:  670C48EB4A75DAAC29D9E95D8D9E71DE;11536.
+(rerunfilecheck)             Before: 9FA15A82DC607F0FAFE159A4ED20B7FD;11997
+(rerunfilecheck)             After:  CF1DA89372DCFE6ACDF8F624F3BBF45C;11955.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 72 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 18667 strings out of 478582
- 290717 string characters out of 2844344
- 670225 words of memory out of 3000000
- 35084 multiletter control sequences out of 15000+600000
+ 18587 strings out of 478582
+ 289492 string characters out of 2844344
+ 670179 words of memory out of 3000000
+ 35079 multiletter control sequences out of 15000+600000
  495072 words of font info for 73 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 70i,26n,79p,1048b,4327s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{subsubsection*.362} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.361} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.360} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.359} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.358} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.357} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.356} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.355} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.354} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.353} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.352} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.351} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.350} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.349} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.348} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.347} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.346} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.345} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.344} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.343} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.342} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.341} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.340} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsubsection*.339} has been referenced but does no
-t exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.338} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.336} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.335} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.334} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.333} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.332} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.331} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.330} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.329} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.328} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.326} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.325} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.324} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.323} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.321} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.320} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.319} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.318} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.317} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.316} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.313} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.312} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.311} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.310} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.309} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.308} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.307} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.306} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.305} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.304} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.303} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.302} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.301} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.300} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.299} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.298} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.297} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.296} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.367} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.366} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.365} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.364} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.363} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.337} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.327} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.322} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.315} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.314} has been referenced but does not exis
-t, replaced by a fixed one
-
-{C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
-sers/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C
-:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb
-><C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a
-.pfb>
-Output written on main_pei.pdf (140 pages, 971401 bytes).
+ 70i,26n,79p,1048b,4332s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/b
+ase/8r.enc}<C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
+ic/uhvb8a.pfb><C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><C:/Users/REDES/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+helvetic/uhvro8a.pfb>
+Output written on main_pei.pdf (137 pages, 942185 bytes).
 PDF statistics:
- 2741 PDF objects out of 2984 (max. 8388607)
- 1399 named destinations out of 1440 (max. 500000)
- 432 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2543 PDF objects out of 2984 (max. 8388607)
+ 1324 named destinations out of 1440 (max. 500000)
+ 360 words of extra memory for PDF output out of 10000 (max. 10000000)
 
